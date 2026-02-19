@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chitralekha: Lata Mangeshkar Digital Archive</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-title-block">
+        <span class="site-kicker">Digital Humanities Archive</span>
+        <a href="#home" class="site-title" data-page="home">Chitralekha</a>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">&#9776;</button>
+      <nav class="main-nav" id="mainNav">
+        <a href="#home" class="nav-link active" data-page="home">Home</a>
+        <a href="#archive" class="nav-link" data-page="archive">Archive by Decade</a>
+        <a href="#thematic" class="nav-link" data-page="thematic">Thematic Collections</a>
+        <a href="#analysis" class="nav-link" data-page="analysis">Analysis</a>
+        <a href="#methodology" class="nav-link" data-page="methodology">Methodology</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HOME PAGE -->
+  <section class="page active" id="home">
+    <div class="hero">
+      <div class="hero-ornament">❧</div>
+      <h1 class="hero-title">Lata Mangeshkar<br /><em>Digital Archive</em></h1>
+      <p class="hero-subtitle">A scholarly repository of song, memory, and musical heritage</p>
+    </div>
+    <div class="container">
+      <div class="intro-grid">
+        <div class="intro-text">
+          <h2>About This Archive</h2>
+          <p>
+            <em>Chitralekha</em> — meaning "the painter of pictures" — is an open digital humanities archive devoted to the life's work of Lata Mangeshkar (1929–2022), widely considered the most recorded artist in music history. Over seven decades, she lent her voice to more than 30,000 songs across Hindi, Bengali, Marathi, Urdu, and numerous other languages, shaping the sonic landscape of Indian cinema and culture.
+          </p>
+          <p>
+            This archive organises her repertoire by decade, thematic cluster, and compositional lineage. Each entry is accompanied by contextual notes, metadata, and links to audio–visual sources. The project is intended as a living resource for students, researchers, and listeners who wish to engage seriously with her extraordinary body of work.
+          </p>
+          <p>
+            Navigation proceeds chronologically through the <strong>Archive by Decade</strong> section, or thematically through <strong>Thematic Collections</strong>. The <strong>Analysis</strong> section presents essays and data visualisations; <strong>Methodology</strong> describes curatorial decisions and citation practices.
+          </p>
+        </div>
+        <aside class="intro-aside">
+          <figure class="portrait-figure">
+            <div class="portrait-placeholder">
+              <span class="portrait-initial">ल</span>
+            </div>
+            <figcaption>Lata Mangeshkar<br /><em>1929 – 2022</em></figcaption>
+          </figure>
+          <div class="quick-facts">
+            <div class="fact"><span class="fact-num">30,000+</span><span class="fact-label">Songs Recorded</span></div>
+            <div class="fact"><span class="fact-num">36</span><span class="fact-label">Languages</span></div>
+            <div class="fact"><span class="fact-num">7</span><span class="fact-label">Decades of Work</span></div>
+            <div class="fact"><span class="fact-num">1942</span><span class="fact-label">First Recording</span></div>
+          </div>
+        </aside>
+      </div>
+
+      <div class="decade-nav-grid">
+        <h2 class="section-heading">Browse by Decade</h2>
+        <div class="decade-cards">
+          <button class="decade-card" data-decade="1940s">
+            <span class="decade-label">1940s</span>
+            <span class="decade-desc">The Formative Years</span>
+          </button>
+          <button class="decade-card" data-decade="1950s">
+            <span class="decade-label">1950s</span>
+            <span class="decade-desc">The Golden Age Begins</span>
+          </button>
+          <button class="decade-card" data-decade="1960s">
+            <span class="decade-label">1960s</span>
+            <span class="decade-desc">The Classical Peak</span>
+          </button>
+          <button class="decade-card" data-decade="1970s">
+            <span class="decade-label">1970s</span>
+            <span class="decade-desc">Romance & Revolution</span>
+          </button>
+          <button class="decade-card" data-decade="1980s">
+            <span class="decade-label">1980s</span>
+            <span class="decade-desc">Synthesis & Transition</span>
+          </button>
+          <button class="decade-card" data-decade="1990s">
+            <span class="decade-label">1990s</span>
+            <span class="decade-desc">The Later Renaissance</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ARCHIVE BY DECADE PAGE -->
+  <section class="page" id="archive">
+    <div class="container">
+      <div class="page-header">
+        <h1>Archive by Decade</h1>
+        <p class="page-desc">Select a decade to explore curated song entries from that era.</p>
+        <div class="decade-tabs" id="decadeTabs">
+          <button class="tab-btn active" data-decade="1940s">1940s</button>
+          <button class="tab-btn" data-decade="1950s">1950s</button>
+          <button class="tab-btn" data-decade="1960s">1960s</button>
+          <button class="tab-btn" data-decade="1970s">1970s</button>
+          <button class="tab-btn" data-decade="1980s">1980s</button>
+          <button class="tab-btn" data-decade="1990s">1990s</button>
+        </div>
+      </div>
+      <div class="songs-grid" id="songsGrid"></div>
+    </div>
+  </section>
+
+  <!-- THEMATIC COLLECTIONS PAGE -->
+  <section class="page" id="thematic">
+    <div class="container">
+      <div class="page-header">
+        <h1>Thematic Collections</h1>
+        <p class="page-desc">Songs grouped by recurring themes, emotional registers, and poetic motifs.</p>
+      </div>
+      <div class="thematic-grid">
+        <div class="theme-block">
+          <h3>विरह · Longing & Separation</h3>
+          <p>Songs that trace the cartography of absence — the lover departed, the distance untraversable. From <em>Aaja Re Pardesi</em> to <em>Lag Ja Gale</em>, this collection maps the aesthetic of <em>viraha</em> in Hindustani musical tradition.</p>
+          <ul class="theme-songs">
+            <li>Lag Ja Gale <span>(Woh Kaun Thi, 1964)</span></li>
+            <li>Aaja Re Pardesi <span>(Madhumati, 1958)</span></li>
+            <li>Tere Bina Zindagi Se <span>(Aandhi, 1975)</span></li>
+            <li>Teri Bindiya Re <span>(Abhimaan, 1973)</span></li>
+          </ul>
+        </div>
+        <div class="theme-block">
+          <h3>भक्ति · Devotional Songs</h3>
+          <p>A thread of the sacred runs through Lata's work — from Meera bhajans to patriotic odes treated as acts of devotion. This collection gathers expressions of the divine, the cosmic, and the reverential.</p>
+          <ul class="theme-songs">
+            <li>Allah Tero Naam <span>(Hum Dono, 1961)</span></li>
+            <li>Aayega Aanewala <span>(Mahal, 1949)</span></li>
+            <li>O Paalanhaare <span>(Lagaan, 2001)</span></li>
+          </ul>
+        </div>
+        <div class="theme-block">
+          <h3>श्रृंगार · Love & Romance</h3>
+          <p>Songs of joy, desire, and erotic longing rendered with restraint and elegance. The classical <em>shringar rasa</em> finds its modern cinematic expression in these iconic melodies.</p>
+          <ul class="theme-songs">
+            <li>Pyaar Kiya To Darna Kya <span>(Mughal-e-Azam, 1960)</span></li>
+            <li>Tujhse Naraz Nahi Zindagi <span>(Masoom, 1983)</span></li>
+            <li>Didi Tera Dewar Deewana <span>(Hum Aapke Hain Koun, 1994)</span></li>
+          </ul>
+        </div>
+        <div class="theme-block">
+          <h3>राग · Raag-Based Compositions</h3>
+          <p>Songs rooted explicitly in the Hindustani classical tradition, drawing on specific ragas to evoke time, season, and emotional state. A testament to Lata's classical training under Ustad Aman Ali Khan.</p>
+          <ul class="theme-songs">
+            <li>Mohe Panghat Pe <span>(Mughal-e-Azam, 1960)</span></li>
+            <li>Bahe Na Balam <span>(1955)</span></li>
+            <li>Jhanak Jhanak Tori Baaje Payaliya <span>(Baiju Bawra, 1952)</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ANALYSIS PAGE -->
+  <section class="page" id="analysis">
+    <div class="container">
+      <div class="page-header">
+        <h1>Analysis</h1>
+        <p class="page-desc">Scholarly essays, compositional studies, and data-driven observations.</p>
+      </div>
+      <div class="analysis-layout">
+        <article class="analysis-essay">
+          <h2>The Voice as Instrument: Tonal Registers in Lata's Filmography</h2>
+          <p class="essay-meta">Essay · 2024</p>
+          <p>
+            Lata Mangeshkar's soprano occupied an unusual position in mid-century Indian film music: light enough for youthful heroines, yet possessed of sufficient resonance for classical compositions demanding considerable breath control. This essay examines how Lata modulated her tonal register across film roles, composers, and decades.
+          </p>
+          <p>
+            Her collaboration with S.D. Burman in the 1950s demanded a distinctly breathy, conversational quality — deployed brilliantly in <em>Pyaasa</em> (1957). By contrast, Naushad's orchestrations for <em>Mughal-e-Azam</em> (1960) required full classical projection, which she delivered in "Pyaar Kiya To Darna Kya" with unmatched theatrical authority.
+          </p>
+          <p>
+            Later collaborations with R.D. Burman in the 1970s saw her voice employed in a more popular idiom, embracing disco-inflected arrangements while retaining the clarity of diction for which she was universally recognised. A comparative acoustic analysis of recordings across these periods reveals measurable shifts in vibrato rate and formant structure that correspond to stylistic demands.
+          </p>
+        </article>
+        <aside class="analysis-sidebar">
+          <div class="stat-card">
+            <h3>Composer Collaborations</h3>
+            <div class="bar-chart">
+              <div class="bar-row"><span class="bar-name">S.D. Burman</span><div class="bar-fill" style="width:85%"><span>~3,000</span></div></div>
+              <div class="bar-row"><span class="bar-name">R.D. Burman</span><div class="bar-fill" style="width:78%"><span>~2,700</span></div></div>
+              <div class="bar-row"><span class="bar-name">Naushad</span><div class="bar-fill" style="width:60%"><span>~2,000</span></div></div>
+              <div class="bar-row"><span class="bar-name">Laxmikant–Pyarelal</span><div class="bar-fill" style="width:90%"><span>~3,500</span></div></div>
+              <div class="bar-row"><span class="bar-name">Madan Mohan</span><div class="bar-fill" style="width:45%"><span>~1,500</span></div></div>
+            </div>
+            <p class="chart-note">Approximate figures. Full dataset forthcoming.</p>
+          </div>
+          <div class="essay-list">
+            <h3>Further Reading</h3>
+            <ul>
+              <li><em>Madan Mohan & the Ghazal Form</em></li>
+              <li><em>Language Distribution Across Decades</em></li>
+              <li><em>Patriotic Songs: A Corpus Study</em></li>
+              <li><em>The Duet Tradition: Lata & Rafi</em></li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- METHODOLOGY PAGE -->
+  <section class="page" id="methodology">
+    <div class="container">
+      <div class="page-header">
+        <h1>Methodology</h1>
+        <p class="page-desc">Curatorial principles, data sources, and citation practices.</p>
+      </div>
+      <div class="methodology-body">
+        <div class="method-section">
+          <h2>Scope & Selection</h2>
+          <p>
+            Given the impossibility of documenting all 30,000+ recordings in a single archive, this project prioritises songs that meet one or more of the following criteria: critical recognition in scholarly literature; significance in the evolution of Lata's vocal technique or stylistic range; cultural ubiquity as attested by streaming data or critical reception; and representation of under-documented languages or compositional schools.
+          </p>
+          <p>
+            Each decade chapter aims for a minimum of twenty curated entries, with priority given to films certified by the Film Heritage Foundation or discussed in peer-reviewed musicological publications.
+          </p>
+        </div>
+        <div class="method-section">
+          <h2>Data Sources</h2>
+          <p>
+            Metadata — film year, composer, lyricist, language — is cross-referenced across three primary sources: the Encyclopaedia of Hindi Film Songs (Gulzar, Nihalani, Chatterjee, 2003), the Filmography maintained by the National Film Archive of India (NFAI), and the Lata Mangeshkar discography maintained at SongsPk and cross-checked with the Internet Movie Database. Discrepancies are noted inline.
+          </p>
+        </div>
+        <div class="method-section">
+          <h2>Audio–Visual Links</h2>
+          <p>
+            YouTube links are provided as access points to recordings in the public domain or officially uploaded by rights holders. Links are verified at the time of entry creation but are subject to removal by platform or rights holder action. This archive does not host audio or video files and bears no responsibility for external link availability.
+          </p>
+        </div>
+        <div class="method-section">
+          <h2>Citation</h2>
+          <p>
+            To cite this archive: <em>Chitralekha: Lata Mangeshkar Digital Archive</em>. Accessed [date]. URL.
+          </p>
+          <p>
+            Individual song entries should be cited with their full metadata as displayed: Song Title, Film (Year), Composer, Lyricist. <em>Chitralekha</em>.
+          </p>
+        </div>
+        <div class="method-section">
+          <h2>Contributing</h2>
+          <p>
+            This is a living project. Corrections, additions, and scholarly contributions are welcome. Please contact the editorial team via the project repository. All contributions are reviewed against primary sources before incorporation.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-title">Chitralekha · Lata Mangeshkar Digital Archive</p>
+      <p>A Digital Humanities Project · Open Access · Non-Commercial</p>
+      <p class="footer-note">In memory of Lata Mangeshkar · 28 September 1929 – 6 February 2022</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
