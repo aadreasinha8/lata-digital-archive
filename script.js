@@ -26,6 +26,17 @@ const songs = {
       theme: "Devotional",
       note: "Lata's debut Hindi song. Also, it featured young Lata Mangeshkar in an early acting role alongside a minor appearance by Asha.",
       youtube: "https://www.youtube.com/results?search_query=janani+janmabhoomi+tum+maa+o+badi+maa"
+    },
+    {
+      title: "Mata Tere Charnon Men",
+      film: "Badi Maa",
+      year: 1945,
+      composer: "K. Dutta",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Devotion",
+      note: "A desolate expression of romantic betrayal, sung with characteristic restraint. This early collaboration with Naushad established a partnership that would define Indian film music for two decades.",
+      youtube: "https://www.youtube.com/results?search_query=mata+tere+charno+mein+lata+1945"
     },    
     {
       title: "Dil Mera Toda",
