@@ -17,7 +17,7 @@ const songs = {
       youtube: "https://www.youtube.com/results?search_query=Aayega+Aanewala+Mahal+1949+Lata"
     },
     {
-        title: "Janani Janambhoohmi Tum Maa Ho Badi Maa",
+      title: "Janani Janambhoohmi Tum Maa Ho Badi Maa",
       film: "Badi Maa",
       year: 1945,
       composer: "K. Dutta",
