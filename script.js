@@ -151,6 +151,17 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=h98PfNvo_lI&list=RDh98PfNvo_lI&start_radio=1"
     },   
     {
+      title: "Dam Bhar Jo Udhar Munh Phere",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Shailendra",
+      language: "Hindi",
+      theme: "Romantic",
+      note: "The song is picturised on Raj Kapoor and Nargis, and it captures a playful and romantic moment between the two characters. In the song, the lovers tease each other gently, expressing affection through light-hearted dialogue and melody. The title roughly means “If you turn your face away for just a moment,” symbolising the emotional vulnerability and longing present in romantic relationships.",
+      youtube: "https://www.youtube.com/watch?v=d1ZGmRZvgc0&list=RDd1ZGmRZvgc0&start_radio=1"
+    },   
+    {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
       film: "Pyaasa",
       year: 1957,
