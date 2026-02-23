@@ -104,6 +104,17 @@ const songs = {
       note: "The song is deeply rooted in traditional and devotional-romantic themes, drawing from the imagery of Radha–Krishna lore. The mention of “Shyam” points to Lord Krishna, while the context of “Hori” (Holi) brings in the festive, playful spirit associated with Krishna and Radha’s divine love. The lyrics reflect a mix of devotion, teasing affection, and emotional surrender.",
       youtube: "https://www.youtube.com/watch?v=ai6CjZHO5hc&list=RDai6CjZHO5hc&start_radio=1"  
     },
+    {
+      title: "Jawani Ki Rel Chali",
+      film: "Shehnai",
+      year: 1947,
+      composer: "C. Ramchandra",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Joy · Celebration",
+      note: "Lata Mangeshkar’s voice, still in its early phase, combines with C. Ramchandra’s to create a vibrant, engaging sound. The song stands out as an example of how 1940s Hindi cinema began experimenting with modern, urban musical styles while still maintaining Indian lyrical sensibilities.",
+      youtube: "https://www.youtube.com/watch?v=oVU-LNCiHWc&list=RDoVU-LNCiHWc&start_radio=1"
+    },  
     { 
       title: "Dil Mera Toda",
       film: "Andaz",
