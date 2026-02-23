@@ -212,7 +212,62 @@ const songs = {
       language: "Hindi",
       theme: "Virah · Emotional",
       note: "The song revolves around a philosophical sense of longing and incompleteness. The line “kinare kinare” (staying at the shore) metaphorically suggests living life on the sidelines—never fully immersing in its experiences. It expresses a quiet frustration and sadness about unfulfilled desires, hesitation, or emotional distance.",
-      youtube: "https://www.youtube.com/watch?v=8SPRzvY33fc&list=RD8SPRzvY33fc&start_radio=1"  
+      youtube: "https://www.youtube.com/watch?v=8SPRzvY33fc&list=RD8SPRzvY33fc&start_radio=1"
+    },
+    {
+      title: "Meri Ankhon Men Bas Gaya Koi",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song expresses the feeling of deep emotional absorption in love, where the beloved has “settled” in the singer’s eyes, symbolizing constant remembrance and presence. It reflects a mood of quiet devotion, longing, and tender attachment, where love becomes an all-encompassing experience. Lyrically, the imagery is intimate and poetic, suggesting that the beloved is not just remembered but lives within the heart and vision of the lover. There is a gentle blend of happiness and yearning, typical of early romantic expression.",
+      youtube: "https://www.youtube.com/watch?v=ge0XncMF_CY&list=RDge0XncMF_CY&start_radio=1"
+    },
+    {
+      title: "Mujhe Kisi Se Pyar Ho Gaya",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song beautifully captures the innocent realization of falling in love. The line itself, “mujhe kisi se pyar ho gaya”, expresses a moment of emotional awakening, where the singer acknowledges a new and overwhelming feeling of love. It carries a sense of wonder, shyness, and quiet happiness, typical of early-stage romance. This song is especially significant in Hindi cinema history because Barsaat (1949) played a major role in establishing Lata Mangeshkar as the leading female playback singer of the industry. Her voice here sounds more refined, with the signature sweetness and clarity that would soon become her hallmark.",
+      youtube: "https://www.youtube.com/watch?v=2OV5Xiiy61I&list=RD2OV5Xiiy61I&start_radio=1"
+    },
+    {
+      title: "Ab Mera Kaun Sahara",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak · Pain",
+      note: "The song expresses a profound sense of loneliness and abandonment. The line “ab mera kaun sahara” (who is my support now?) reflects a moment of emotional collapse, where the singer feels left alone without love, protection, or hope. It carries themes of loss, helplessness, and emotional dependence. Lyrically, the song is intense yet simple, focusing on the vulnerability of the human heart when it loses its anchor. The emotion is raw and direct, making it highly relatable.",
+      youtube: "https://www.youtube.com/watch?v=oYtFZQzxTfY&list=RDoYtFZQzxTfY&start_radio=1"
+    },
+    {
+      title: "Bichhde Hue Pardesi",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Virah · Pain",
+      note: "The song is built around the theme of separation and longing. The phrase “bichhde hue pardesi” refers to a beloved who is far away, emphasizing the pain of distance and emotional disconnect. It reflects the classic idea of viraha (separation in love), where absence intensifies feelings.",
+      youtube: "https://www.youtube.com/watch?v=0Q02KD0Dtfk&list=RD0Q02KD0Dtfk&start_radio=1"
+    },
+    {
+      title: "Hawa Men Udta Jae Mera Lal Dupatta",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Youth · Celebration",
+      note: "The song is full of playfulness and youthful energy, using the image of a “laal dupatta” flying in the wind as a symbol of carefree joy and flirtation. It reflects a light-hearted romantic mood, where the heroine expresses her emotions in a teasing, spirited manner. It remains one of the most iconic and recognizable tracks from Barsaat.",
+      youtube: "https://www.youtube.com/watch?v=OyDr1zTy7Ek&list=RDOyDr1zTy7Ek&start_radio=1"
     },   
     { 
       title: "Dil Mera Toda",
