@@ -140,6 +140,17 @@ const songs = {
       youtube: "https://www.youtube.com/results?search_query=Aaja+Re+Pardesi+Madhumati+1958"
     },
     {
+      title: "Ghar Aaya Mera Pardesi",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Shailendra",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song appears in the famous dream sequence of the film and is deeply symbolic rather than just narrative. It represents the inner emotional world of the characters—especially longing, redemption, and the desire for love. The phrase “pardesi” (outsider/stranger) reflects separation, while “ghar aaya” suggests reunion, making the song about emotional return and belonging. ",
+      youtube: "https://www.youtube.com/watch?v=h98PfNvo_lI&list=RDh98PfNvo_lI&start_radio=1"
+    },   
+    {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
       film: "Pyaasa",
       year: 1957,
