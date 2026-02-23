@@ -404,17 +404,6 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=W05zN8gstgo&list=RDW05zN8gstgo&start_radio=1"
     },
     {
-      title: "Jhanak Jhanak Tori Baaje Payaliya",
-      film: "Baiju Bawra",
-      year: 1952,
-      composer: "Naushad",
-      lyricist: "Shakeel Badayuni",
-      language: "Hindi",
-      theme: "Classical · Devotion",
-      note: "One of the finest classical-based songs in Hindi cinema, rendered in Raag Desh. The song showcases Lata's ability to handle the demanding ornamentation of Hindustani classical music within the popular film idiom.",
-      youtube: "https://www.youtube.com/results?search_query=Jhanak+Jhanak+Tori+Baaje+Payaliya+Baiju+Bawra"
-    },
-    {
       title: "Ab Raat Guzarne Wali Hai",
       film: "Awaara",
       year: 1951,
@@ -457,6 +446,61 @@ const songs = {
       theme: "Disappointment , Emotional pain",
       note: "Deeply emotional song that highlights Lata Mangeshkar’s exceptional ability to convey sorrow and emotional vulnerability. Her soft yet powerful voice adds depth and sincerity to the lyrics. The music composed by Shankar–Jaikishan enhances the emotional tone with a slow and expressive melody. The song plays an important role in expressing the inner emotional state of the character and remains memorable for its emotional intensity, poetic beauty, and timeless appeal.",
       youtube: "https://www.youtube.com/watch?v=Sf6dbWkCEHg&list=RDSf6dbWkCEHg&start_radio=1"
+    },
+    {
+      title: "Lage Jabse Nain",
+      film: "Daag",
+      year: 1952,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Awakening of love",
+      note: " A romantic song that beautifully captures the innocence and intensity of falling in love. Lata Mangeshkar’s soft and expressive voice adds charm and emotional delicacy to the composition. The music by Shankar–Jaikishan enhances the romantic mood with a flowing and graceful melody. The song remains memorable for its poetic imagery, emotional warmth, and timeless romantic appeal.",
+      youtube: "https://www.youtube.com/watch?v=RukfltwzDOM&list=RDRukfltwzDOM&start_radio=1"
+    },
+    {
+      title: "Preet Yeh Kaisi",
+      film: "Daag",
+      year: 1952,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Confusion and emotional pain",
+      note: " A Deeply emotional song that highlights Lata Mangeshkar’s ability to convey emotional sensitivity and inner turmoil. Her expressive and delicate voice brings out the pain and questioning present in the lyrics. The music composed by Shankar–Jaikishan complements the emotional tone with a slow and meaningful melody. The song remains memorable for its emotional depth, poetic expression, and powerful portrayal of the complexities of love.",
+      youtube: "https://www.youtube.com/watch?v=xjdQL-Pysis&list=RDxjdQL-Pysis&start_radio=1"
+    },
+    {
+      title: "Aye Mere Dil Kahin Aur Chal",
+      film: "Daag",
+      year: 1952,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak and emotional escape",
+      note: "One of the most emotional and memorable songs from Daag (1952). Both Talat Mahmood and Lata Mangeshkar bring deep emotional expression to their versions. Talat Mahmood’s soft, melancholic voice and Lata Mangeshkar’s delicate, expressive tone beautifully convey the pain of heartbreak. The music by Shankar–Jaikishan enhances the sadness through a slow and haunting melody. The song remains timeless for its emotional intensity, poetic lyrics, and powerful portrayal of sorrow and longing.",
+      youtube: "https://www.youtube.com/watch?v=4gm9tfzt7-U&list=RD4gm9tfzt7-U&start_radio=1"
+    },
+    {
+      title: "Mere Chand Mere Lal",
+      film: "Diwana",
+      year: 1952,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Maternal affection and protective love",
+      note: "Tender and emotionally soothing song that showcases Lata Mangeshkar’s gentle and expressive singing style. Her soft voice enhances the nurturing and affectionate tone of the song. The music composed by Naushad beautifully complements the emotional warmth through a calm and melodious arrangement. The lyrics by Shakeel Badayuni add poetic grace and depth.",
+      youtube: "https://www.youtube.com/watch?v=YYgTPDEPWjw&list=RDYYgTPDEPWjw&start_radio=1"
+    },
+    {
+      title: "Teer Khate Jayenge",
+      film: "Diwana",
+      year: 1952,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Pain and sacrifice in love",
+      note: "emotional and expressive song that showcases Lata Mangeshkar’s exceptional ability to convey sorrow and vulnerability. Her delicate and soulful voice enhances the emotional weight of the lyrics. The music composed by Naushad complements the tragic theme with a slow and haunting melody. The lyrics by Shakeel Badayuni add poetic depth and emotional richness.",
+      youtube: "https://www.youtube.com/watch?v=UYqT1q4KHnE&list=RDUYqT1q4KHnE&start_radio=1"
     },
     {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
