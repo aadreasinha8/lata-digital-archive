@@ -369,7 +369,95 @@ const songs = {
       theme: "Romantic",
       note: "The song is picturised on Raj Kapoor and Nargis, and it captures a playful and romantic moment between the two characters. In the song, the lovers tease each other gently, expressing affection through light-hearted dialogue and melody. The title roughly means “If you turn your face away for just a moment,” symbolising the emotional vulnerability and longing present in romantic relationships.",
       youtube: "https://www.youtube.com/watch?v=d1ZGmRZvgc0&list=RDd1ZGmRZvgc0&start_radio=1"
-    },   
+    },
+      {
+      title: "Dam Bhar Jo Udhar Munh Phere",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Shailendra",
+      language: "Hindi",
+      theme: "Romantic",
+      note: "The song is picturised on Raj Kapoor and Nargis, and it captures a playful and romantic moment between the two characters. In the song, the lovers tease each other gently, expressing affection through light-hearted dialogue and melody. The title roughly means “If you turn your face away for just a moment,” symbolising the emotional vulnerability and longing present in romantic relationships.",
+      youtube: "https://www.youtube.com/watch?v=d1ZGmRZvgc0&list=RDd1ZGmRZvgc0&start_radio=1"
+    }, 
+    {
+      title: "Tere Bina Aag Yeh Chandni",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Shailendra",
+      language: "Hindi",
+      theme: "Emotional intensity",
+      note: "The song beautifully expresses longing and emotional dependence in love. The line “Tere bina aag yeh chandni” suggests that without the beloved, even the soothing moonlight feels like fire  a poetic metaphor highlighting how love transforms one’s emotional world. The melody is soft yet deeply expressive, reflecting the intensity of separation and desire.",
+      youtube: "https://www.youtube.com/watch?v=nf4reYrFrVI&list=RDnf4reYrFrVI&start_radio=1"
+    },
+    {
+      title: "Ek Bewafa Se Pyar Kiya",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Heartbreak· Emotional suffering",
+      note: "This song expresses deep sorrow, betrayal, and heartbreak. The title means “I fell in love with someone unfaithful,” and the lyrics convey the pain of loving someone who does not return that love sincerely. The emotional intensity of the song reflects feelings of disappointment, vulnerability, and loneliness.",
+      youtube: "https://www.youtube.com/watch?v=W05zN8gstgo&list=RDW05zN8gstgo&start_radio=1"
+    },
+    {
+      title: "Jhanak Jhanak Tori Baaje Payaliya",
+      film: "Baiju Bawra",
+      year: 1952,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Classical · Devotion",
+      note: "One of the finest classical-based songs in Hindi cinema, rendered in Raag Desh. The song showcases Lata's ability to handle the demanding ornamentation of Hindustani classical music within the popular film idiom.",
+      youtube: "https://www.youtube.com/results?search_query=Jhanak+Jhanak+Tori+Baaje+Payaliya+Baiju+Bawra"
+    },
+    {
+      title: "Ab Raat Guzarne Wali Hai",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Hope after emotional suffering",
+      note: "The soft and emotional melody that highlights Lata Mangeshkar’s ability to express delicate emotions through her voice. Her gentle and soothing tone enhances the emotional atmosphere of the song. The music by Shankar–Jaikishan complements the lyrics with a calm and slow rhythm, reinforcing the theme of emotional transition. Overall, the song contributes to the emotional depth of Awaara and remains memorable for its poetic beauty, emotional sincerity, and timeless appeal.",
+      youtube: "https://www.youtube.com/watch?v=6mPgJG-ZFzQ&list=RD6mPgJG-ZFzQ&start_radio=1"
+    },
+    {
+      title: "Jab Se Balam Ghar Aaye",
+      film: "Awaara",
+      year: 1951,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Joy , Fullfillment in love",
+      note: "The melodious and expressive song that beautifully conveys feelings of love and emotional contentment. Lata Mangeshkar’s sweet and graceful voice enhances the emotional warmth of the song. The music composed by Shankar–Jaikishan uses gentle rhythm and soothing melody to reflect the emotional joy of reunion. The song adds emotional richness to Awaara and remains memorable for its simplicity, tenderness, and expressive beauty.",
+      youtube: "https://www.youtube.com/watch?v=loxPMWyu7Tg&list=RDloxPMWyu7Tg&start_radio=1"
+    },
+    {
+      title: "Kahe Ko Der Lagayi Re",
+      film: "Daag",
+      year: 1952,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Longing , Emotional anticipation",
+      note: "“Kahe Ko Der Lagayi Re” is a melodious and emotional song that highlights Lata Mangeshkar’s ability to convey longing and emotional sensitivity. Her soft and expressive voice captures the pain of waiting and the intensity of love. The music composed by Shankar–Jaikishan complements the emotional tone with a gentle and flowing melody. The song remains memorable for its emotional depth, poetic lyrics, and Lata Mangeshkar’s soulful performance.",
+      youtube: "https://www.youtube.com/watch?v=-QU9NANirW4&list=RD-QU9NANirW4&start_radio=1"
+    },
+    {
+      title: "Dekho Aaya Ye Kaisa",
+      film: "Daag",
+      year: 1952,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Disappointment , Emotional pain",
+      note: "Deeply emotional song that highlights Lata Mangeshkar’s exceptional ability to convey sorrow and emotional vulnerability. Her soft yet powerful voice adds depth and sincerity to the lyrics. The music composed by Shankar–Jaikishan enhances the emotional tone with a slow and expressive melody. The song plays an important role in expressing the inner emotional state of the character and remains memorable for its emotional intensity, poetic beauty, and timeless appeal.",
+      youtube: "https://www.youtube.com/watch?v=Sf6dbWkCEHg&list=RDSf6dbWkCEHg&start_radio=1"
+    },
     {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
       film: "Pyaasa",
