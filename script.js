@@ -1288,7 +1288,271 @@ const songs = {
       theme: "Memory · Loss",
       note: "Gulzar's extraordinary lyric — cataloguing the detritus of a failed love affair — demands a singer who can hold a long, discursive line with absolute emotional truth. Lata's almost conversational delivery here is among her most technically impressive.",
       youtube: "https://www.youtube.com/results?search_query=Mera+Kuch+Saaman+Ijaazat+1987+Lata"
-    }
+    },
+    {
+         title: "Dhak Dhak Kaise Chalti Hai Gaadi",
+         film: "Haathi Mere Saathi",
+         year: 1971,
+         composer: "Laxmikant–Pyarelal",
+         lyricist: "Anand Bakshi",
+         language: "Hindi",
+         theme: "Playful · Lighthearted",
+         note: "A cheerful song filled with rhythm and fun energy.",
+         youtube: "https://www.youtube.com/results?search_query=Dhak+Dhak+Kaise+Chalti+Hai+Gaadi+Haathi+Mere+Saathi+1971"
+       },
+       {
+         title: "Sun Jaa Aa Thandi Hawa",
+         film: "Haathi Mere Saathi",
+         year: 1971,
+         composer: "Laxmikant–Pyarelal",
+         lyricist: "Anand Bakshi",
+         language: "Hindi",
+         theme: "Romantic · Breeze Motif",
+         note: "A soft romantic melody carried by soothing orchestration.",
+         youtube: "https://www.youtube.com/results?search_query=Sun+Jaa+Aa+Thandi+Hawa+Haathi+Mere+Saathi+1971"
+       },
+       {
+         title: "Dilbar Jaani Chali Hawa Mastaani",
+         film: "Haathi Mere Saathi",
+         year: 1971,
+         composer: "Laxmikant–Pyarelal",
+         lyricist: "Anand Bakshi",
+         language: "Hindi",
+         theme: "Romantic · Joy",
+         note: "A breezy romantic number celebrating youthful love.",
+         youtube: "https://www.youtube.com/results?search_query=Dilbar+Jaani+Chali+Hawa+Mastaani+Haathi+Mere+Saathi+1971"
+       },
+       {
+         title: "Jagi Raat Bhari Yaad Me Balam",
+         film: "Kajal",
+         year: 1965,
+         composer: "Ravi",
+         lyricist: "Sahir Ludhianvi",
+         language: "Hindi",
+         theme: "Longing · Separation",
+         note: "A deeply emotional song about sleepless nights in remembrance of a beloved.",
+         youtube: "https://www.youtube.com/results?search_query=Jagi+Raat+Bhari+Yaad+Me+Balam+Kajal+1965"
+       },
+       {
+         title: "Aaja Re Aaja Mere Sajana Aa",
+         film: "Anpadh",
+         year: 1962,
+         composer: "Madan Mohan",
+         lyricist: "Raja Mehdi Ali Khan",
+         language: "Hindi",
+         theme: "Romantic Yearning",
+         note: "A tender plea inviting the beloved with emotional intensity.",
+         youtube: "https://www.youtube.com/results?search_query=Aaja+Re+Aaja+Mere+Sajana+Anpadh+1962"
+       },
+       {
+         title: "Beeti Na Bitai Raina",
+         film: "Parichay",
+         year: 1972,
+         composer: "R. D. Burman",
+         lyricist: "Gulzar",
+         language: "Hindi",
+         theme: "Classical · Longing",
+         note: "A hauntingly beautiful semi-classical piece expressing restless yearning.",
+         youtube: "https://www.youtube.com/results?search_query=Beeti+Na+Bitai+Raina+Parichay+1972"
+       },
+       {
+         title: "Chalte Chalte",
+         film: "Pakeezah",
+         year: 1972,
+         composer: "Ghulam Mohammed",
+         lyricist: "Kaifi Azmi",
+         language: "Hindi",
+         theme: "Grace · Melancholy",
+         note: "A graceful and emotional song filled with poetic elegance.",
+         youtube: "https://www.youtube.com/results?search_query=Chalte+Chalte+Pakeezah+1972"
+       },
+       {
+         title: "Mausam Hai Aashiqana",
+         film: "Pakeezah",
+         year: 1972,
+         composer: "Ghulam Mohammed",
+         lyricist: "Kamal Amrohi",
+         language: "Hindi",
+         theme: "Romantic · Poetic",
+         note: "A timeless melody celebrating love in its most poetic form.",
+         youtube: "https://www.youtube.com/results?search_query=Mausam+Hai+Aashiqana+Pakeezah+1972"
+       },
+       {
+         title: "Inhi Logon Ne",
+         film: "Pakeezah",
+         year: 1972,
+         composer: "Ghulam Mohammed",
+         lyricist: "Majrooh Sultanpuri",
+         language: "Hindi",
+         theme: "Classical · Dance",
+         note: "A lively mujra number known for its expressive performance.",
+         youtube: "https://www.youtube.com/results?search_query=Inhi+Logon+Ne+Pakeezah+1972"
+       },
+       {
+         title: "Ek Pyar Ka Naghma Hai",
+         film: "Shor",
+         year: 1972,
+         composer: "Laxmikant–Pyarelal",
+         lyricist: "Santosh Anand",
+         language: "Hindi",
+         theme: "Philosophical · Love",
+         note: "A deeply meaningful song reflecting on life and love as a flowing melody.",
+         youtube: "https://www.youtube.com/results?search_query=Ek+Pyar+Ka+Naghma+Hai+Shor+1972"
+       },
+       {
+         title: "Bahon Mein Chale Aao",
+         film: "Anamika",
+         year: 1973,
+         composer: "R. D. Burman",
+         lyricist: "Majrooh Sultanpuri",
+         language: "Hindi",
+         theme: "Intimate · Romance",
+         note: "A soft, intimate romantic song inviting closeness and warmth.",
+         youtube: "https://www.youtube.com/results?search_query=Bahon+Mein+Chale+Aao+Anamika+1973"
+       },
+       {
+         title: "Tere Bina Jiya Jaye Naa",
+         film: "Ghar",
+         year: 1978,
+         composer: "R. D. Burman",
+         lyricist: "Gulzar",
+         language: "Hindi",
+         theme: "Emotional Dependence · Love",
+         note: "A powerful expression of longing and emotional attachment.",
+         youtube: "https://www.youtube.com/results?search_query=Tere+Bina+Jiya+Jaye+Naa+Ghar+1978"
+       },
+       {
+         title: "Jiya Jale",
+         film: "Dil Se",
+         year: 1998,
+         composer: "A. R. Rahman",
+         lyricist: "Gulzar",
+         language: "Hindi",
+         theme: "Passionate Love",
+         note: "A sensuous and rhythmically vibrant song expressing intense love.",
+         youtube: "https://www.youtube.com/results?search_query=Jiya+Jale+Dil+Se+1998"
+       },
+       {
+         title: "Luka Chuppi",
+         film: "Rang De Basanti",
+         year: 2006,
+         composer: "A. R. Rahman",
+         lyricist: "Prasoon Joshi",
+         language: "Hindi",
+         theme: "Motherly Love · Separation",
+         note: "A deeply emotional song about a mother’s longing for her son.",
+         youtube: "https://www.youtube.com/results?search_query=Luka+Chuppi+Rang+De+Basanti+2006"
+       },
+       {
+         title: "Hole Hole Ek Bhi Na Ghungru Bole",
+         film: "Jheel Ke Us Paar",
+         year: 1973,
+         composer: "R. D. Burman",
+         lyricist: "Anand Bakshi",
+         language: "Hindi",
+         theme: "Dance · Playful Romance",
+         note: "A rhythmic and graceful song built around delicate dance movements.",
+         youtube: "https://www.youtube.com/results?search_query=Hole+Hole+Ek+Bhi+Na+Ghungru+Bole+Jheel+Ke+Us+Paar+1973"
+       },
+       {
+         title: "Mera Jwala Naam Jiya Jalana Kaam",
+         film: "Zanjeer",
+         year: 1973,
+         composer: "Kalyanji–Anandji",
+         lyricist: "Gulshan Bawra",
+         language: "Hindi",
+         theme: "Cabaret · Bold",
+         note: "A fiery cabaret-style number full of dramatic flair.",
+         youtube: "https://www.youtube.com/results?search_query=Mera+Jwala+Naam+Jiya+Jalana+Kaam+Zanjeer+1973"
+       },
+       {
+         title: "Suno Suno Ek Baat Kahu",
+         film: "Memsaab",
+         year: 1971,
+         composer: "Sonik–Omi",
+         lyricist: "Indeevar",
+         language: "Hindi",
+         theme: "Romantic Conversation",
+         note: "A light romantic exchange set to a melodious tune.",
+         youtube: "https://www.youtube.com/results?search_query=Suno+Suno+Ek+Baat+Kahu+Memsaab+1971"
+       },
+       {
+         title: "Mujhe Dhund Le Aa Kar Saiya",
+         film: "Bhupinder Singh Collection",
+         year: 1970,
+         composer: "Madan Mohan",
+         lyricist: "Raja Mehdi Ali Khan",
+         language: "Hindi",
+         theme: "Longing · Devotion",
+         note: "A soft emotional plea filled with yearning.",
+         youtube: "https://www.youtube.com/results?search_query=Mujhe+Dhund+Le+Aa+Kar+Saiya+Madan+Mohan"
+       },
+       {
+         title: "Megha Chhaye Aadhi Raat",
+         film: "Sharmilee",
+         year: 1971,
+         composer: "S. D. Burman",
+         lyricist: "Neeraj",
+         language: "Hindi",
+         theme: "Monsoon · Longing",
+         note: "A haunting melody set against a rainy night atmosphere.",
+         youtube: "https://www.youtube.com/results?search_query=Megha+Chhaye+Aadhi+Raat+Sharmilee+1971"
+       },
+       {
+         title: "Rimjhim Rimjhim Dekho Baras Rahee Hai",
+         film: "Shehzada",
+         year: 1972,
+         composer: "R. D. Burman",
+         lyricist: "Majrooh Sultanpuri",
+         language: "Hindi",
+         theme: "Rain · Romance",
+         note: "A joyful monsoon song celebrating love in the rain.",
+         youtube: "https://www.youtube.com/results?search_query=Rimjhim+Rimjhim+Dekho+Baras+Rahee+Hai+Shehzada+1972"
+       },
+       {
+         title: "Naa Jaeeyo Naa Jaeeyo Chhod Ke Naa",
+         film: "Mujhe Jeene Do",
+         year: 1963,
+         composer: "Jaidev",
+         lyricist: "Sahir Ludhianvi",
+         language: "Hindi",
+         theme: "Pleading · Separation",
+         note: "A soulful plea asking the beloved not to leave.",
+         youtube: "https://www.youtube.com/results?search_query=Naa+Jaeeyo+Naa+Jaeeyo+Chhod+Ke+Naa+Mujhe+Jeene+Do+1963"
+       },
+       {
+         title: "Apna Hari Hai Hazaar Hath Wala",
+         film: "Hari Darshan",
+         year: 1972,
+         composer: "Kalyanji–Anandji",
+         lyricist: "Pradeep",
+         language: "Hindi",
+         theme: "Devotional",
+         note: "A bhajan praising the divine power of Lord Vishnu.",
+         youtube: "https://www.youtube.com/results?search_query=Apna+Hari+Hai+Hazaar+Hath+Wala+Hari+Darshan+1972"
+       },
+       {
+         title: "Jai Jai Narayan",
+         film: "Hari Darshan",
+         year: 1972,
+         composer: "Kalyanji–Anandji",
+         lyricist: "Pradeep",
+         language: "Hindi",
+         theme: "Devotional",
+         note: "A celebratory bhajan filled with spiritual devotion.",
+         youtube: "https://www.youtube.com/results?search_query=Jai+Jai+Narayan+Hari+Darshan+1972"
+       },
+       {
+         title: "Marne Wala Hai Bhagwan",
+         film: "Hari Darshan",
+         year: 1972,
+         composer: "Kalyanji–Anandji",
+         lyricist: "Pradeep",
+         language: "Hindi",
+         theme: "Spiritual Reflection",
+         note: "A devotional song reflecting on faith and destiny.",
+         youtube: "https://www.youtube.com/results?search_query=Marne+Wala+Hai+Bhagwan+Hari+Darshan+1972"
+       }
   ],
   "1990s": [
     {
