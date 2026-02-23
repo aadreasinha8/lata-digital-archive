@@ -547,6 +547,61 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=09uo2EdhkhE&list=RD09uo2EdhkhE&start_radio=1"
     },
     {
+      title: "Pyar Hua Iqrar Hua",
+      film: "Shree 420",
+      year: 1955,
+      composer: "Shankar Jaikishan",
+      lyricist: "Shailendra",
+      language: "Hindi",
+      theme: "Love confession",
+      note: "The most recognised romantic duets in Hindi cinema. The harmonious voices of Lata Mangeshkar and Mukesh create a balanced and pleasing musical experience. The composition by Shankar–Jaikishan features a gentle rhythm that complements the romantic mood. The lyrics by Shailendra emphasise honesty, unity, and emotional connection. The song remains admired for its memorable melody, meaningful lyrics, and its portrayal of sincere affection.",
+      youtube: "https://www.youtube.com/watch?v=xkl1QwNEuYs&list=RDxkl1QwNEuYs&start_radio=1"
+    },
+    {
+      title: "Ramaiya Vastavaiya",
+      film: "Shree 420",
+      year: 1955,
+      composer: "Shankar Jaikishan",
+      lyricist: "Shailendra",
+      language: "Hindi",
+      theme: "Hopeful reunion",
+      note: "A lively and expressive song that reflects collective emotion and longing. The voices of Lata Mangeshkar, Mukesh, and Mohammed Rafi create a rich choral effect. The composition by Shankar–Jaikishan blends folk rhythm with cinematic melody, while the lyrics by Shailendra express longing, patience, and faith in love. The song remains memorable for its vibrant energy, cultural blend, and emotional warmth.",
+      youtube: "https://www.youtube.com/watch?v=DvFYplCzqPk&list=RDDvFYplCzqPk&start_radio=1"
+    },
+    {
+      title: "Ichak Dana Beechak Dana",
+      film: "Shree 420",
+      year: 1955,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Playful innocence",
+      note: "It stands out for its cheerful rhythm and childlike simplicity. Lata Mangeshkar’s bright and clear voice complements Mukesh’s warm tone, creating a friendly musical exchange. The composition by Shankar–Jaikishan carries a light, folk-inspired arrangement that matches the playful lyrics written by Shailendra. The song remains memorable for its engaging structure, joyful mood, and its representation of simplicity within the narrative of the film.",
+      youtube: "https://www.youtube.com/watch?v=FZ6QkAR0Jnw&list=RDFZ6QkAR0Jnw&start_radio=1"
+    },
+    {
+      title: "O Janewale",
+      film: "Shree 420",
+      year: 1955,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Emotional farewell",
+      note: "It reflects a moment of separation and quiet sorrow. Lata Mangeshkar delivers the song with softness and control, allowing the listener to feel the character’s sense of loss. The composition by Shankar–Jaikishan uses a slow tempo and restrained instrumentation to support the reflective mood. The lyrics by Hasrat Jaipuri emphasise remembrance and longing. The song remains notable for its graceful melody, expressive delivery, and portrayal of parting.",
+      youtube: "https://www.youtube.com/watch?v=lyAjrEdTf4w&list=RDlyAjrEdTf4w&start_radio=1"
+    },
+    {
+      title: "Sham Gayi Raat Aayi",
+      film: "Shree 420",
+      year: 1955,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Romantic anticipation",
+      note: "A graceful musical expression of waiting and expectation. The voices of Lata Mangeshkar and Asha Bhosle create a pleasing vocal harmony that enhances the atmosphere of the song. The composition by Shankar–Jaikishan uses a gentle tempo and melodic flow to reflect the quiet passage of time. The lyrics by Shailendra connect natural imagery with human emotion. The song is appreciated for its lyrical beauty, soothing melody, and expressive presentation.",
+      youtube: "https://www.youtube.com/watch?v=NYNCVOwmC6g&list=RDNYNCVOwmC6g&start_radio=1"
+    },
+    {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
       film: "Pyaasa",
       year: 1957,
