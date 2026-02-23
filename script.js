@@ -35,7 +35,7 @@ const songs = {
       lyricist: "Unknown",
       language: "Hindi",
       theme: "Devotion",
-      note: "A desolate expression of romantic betrayal, sung with characteristic restraint. This early collaboration with Naushad established a partnership that would define Indian film music for two decades.",
+      note: "The song is a heartfelt prayer dedicated to the divine mother (Mata), expressing surrender, faith, and deep devotion. Its lyrics focus on seeking refuge at the goddess’s feet (“charanon mein”), a common motif in Indian bhakti (devotional) traditions, symbolizing humility and spiritual surrender.",
       youtube: "https://www.youtube.com/results?search_query=mata+tere+charno+mein+lata+1945"
     },
     {
@@ -50,6 +50,50 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=8MVABHW6trY&list=RD8MVABHW6trY&start_radio=1"
     },
     {
+      title: "Pyare Bapu Ki",
+      film: "Sona Chandni",
+      year: 1946,
+      composer: "Tufail Farooqi",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Patriotic",
+      note: "The song is a tribute to “Bapu”, referring to Mahatma Gandhi, and reflects the deep reverence people had for him during the final years of India’s freedom struggle. Its lyrics carry a tone of admiration, love, and emotional connection, portraying Gandhi as a guiding moral force and a symbol of hope.",
+      youtube: "https://www.youtube.com/watch?v=qax8OhiWA28&list=RDqax8OhiWA28&start_radio=1"
+    },
+    {
+      title: "Main Khili Khili Phulvari",
+      film: "Subhadra",
+      year: 1946,
+      composer: "Vasant Desai",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song is a part of the phase when Lata was still establishing herself in the industry, and it showcases the simplicity and lyrical charm of pre-independence Hindi cinema music, where melody and poetic imagery were central.",
+      youtube: "https://www.youtube.com/watch?v=MizXgpeXc2k&list=RDMizXgpeXc2k&start_radio=1"
+    },
+    {
+      title: "Piya Aayega Gori Shudh Na Bisaar",
+      film: "Subhadra",
+      year: 1946,
+      composer: "Vasant Desai",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Raag-Based · Romance",
+      note: "The song is rooted in the theme of longing and anticipation, where the female voice expresses hope for the return of her beloved (“piya”). The phrase “shudh na bisaar” suggests a plea not to be forgotten, adding emotional depth and a sense of gentle yearning. It reflects a common motif in Indian poetry and music—viraha (separation), where love is intensified through distance and waiting.",
+      youtube: "https://www.youtube.com/results?search_query=piya+aayega+gori+shudh+na+bisaar+lata+mangeshkar"  
+    },     
+    {
+      title: "Sanwariya O Basuriya O Bajaai Gayo Re",
+      film: "Subhadra",
+      year: 1946,
+      composer: "Vasant Desai",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song is rooted in the theme of longing and anticipation, where the female voice expresses hope for the return of her beloved (“piya”). The phrase “shudh na bisaar” suggests a plea not to be forgotten, adding emotional depth and a sense of gentle yearning. It reflects a common motif in Indian poetry and music—viraha (separation), where love is intensified through distance and waiting.",
+      youtube: "https://www.youtube.com/results?search_query=piya+aayega+gori+shudh+na+bisaar+lata+mangeshkar" 
+    },
+    { 
       title: "Dil Mera Toda",
       film: "Andaz",
       year: 1949,
