@@ -499,8 +499,52 @@ const songs = {
       lyricist: "Shakeel Badayuni",
       language: "Hindi",
       theme: "Pain and sacrifice in love",
-      note: "emotional and expressive song that showcases Lata Mangeshkar’s exceptional ability to convey sorrow and vulnerability. Her delicate and soulful voice enhances the emotional weight of the lyrics. The music composed by Naushad complements the tragic theme with a slow and haunting melody. The lyrics by Shakeel Badayuni add poetic depth and emotional richness.",
+      note: "Emotional and expressive song that showcases Lata Mangeshkar’s exceptional ability to convey sorrow and vulnerability. Her delicate and soulful voice enhances the emotional weight of the lyrics. The music composed by Naushad complements the tragic theme with a slow and haunting melody. The lyrics by Shakeel Badayuni add poetic depth and emotional richness.",
       youtube: "https://www.youtube.com/watch?v=UYqT1q4KHnE&list=RDUYqT1q4KHnE&start_radio=1"
+    },
+    {
+      title: "Aaja Ab To Aaja",
+      film: "Anarkali",
+      year: 1953,
+      composer: "C. Ramchandra, Vasant Prakash",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Longing and emotional yearning for reunion",
+      note: " A deeply emotional and expressive song that showcases Lata Mangeshkar’s exceptional ability to convey longing and sorrow. Her soft, soulful voice beautifully expresses the pain and devotion present in the lyrics. The music composed by C. Ramchandra enhances the emotional depth through a slow and haunting melody, while the lyrics by Rajendra Krishan add poetic richness.",
+      youtube: "https://www.youtube.com/watch?v=NDROweqcixk&list=RDNDROweqcixk&start_radio=1"
+    },
+    {
+      title: "Dua Kar Gham-E-Dil",
+      film: "Anarkali",
+      year: 1953,
+      composer: "C. Ramchandra, Vasant Prakash",
+      lyricist: "Unknown",
+      language: "Urdu",
+      theme: "Prayerful sorrow and helpless love",
+      note: " A emotionally powerful songs from Anarkali. Lata Mangeshkar’s haunting and delicate voice intensifies the feeling of sorrow and devotion. The music by C. Ramchandra complements the lyrical depth with a slow, dramatic composition that enhances the tragic mood.",
+      youtube: "https://www.youtube.com/watch?v=sLgwVMGKMqs&list=RDsLgwVMGKMqs&start_radio=1"
+    },
+    {
+      title: "Mujhse Mat Poochh",
+      film: "Anarkali",
+      year: 1953,
+      composer: "C. Ramchandra, Vasant Prakash",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Emotional suffering and helplessness in love.",
+      note: "A deeply emotional and expressive song that showcases Lata Mangeshkar’s extraordinary ability to convey pain and sensitivity. Her soft and sorrowful voice enhances the emotional intensity of the lyrics. The music composed by C. Ramchandra complements the tragic theme with a slow and haunting melody, while the lyrics by Rajendra Krishan add poetic beauty and emotional richness.",
+      youtube: "https://www.youtube.com/watch?v=Prb-H-f4jHQ&list=RDPrb-H-f4jHQ&start_radio=1"
+    },
+    {
+      title: "Mohabbat Aisi Dhadkan Hai",
+      film: "Anarkali",
+      year: 1953,
+      composer: "C. Ramchandra, Vasant Prakash",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love as an inseparable part of life.",
+      note: "“Mohabbat Aisi Dhadkan Hai” highlights Lata Mangeshkar’s ability to convey sincerity and grace through her voice. Her smooth tonal quality brings clarity and warmth to the composition. The music by C. Ramchandra supports the lyrical meaning with a balanced and flowing arrangement. The lyrics by Rajendra Krishan present love as an enduring and meaningful experience. The song remains notable for its poetic imagery, graceful composition, and expressive vocal performance.",
+      youtube: "https://www.youtube.com/watch?v=09uo2EdhkhE&list=RD09uo2EdhkhE&start_radio=1"
     },
     {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
