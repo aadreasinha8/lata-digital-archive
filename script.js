@@ -602,6 +602,50 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=NYNCVOwmC6g&list=RDNYNCVOwmC6g&start_radio=1"
     },
     {
+      title: "Jise Tu Kabool Karle",
+      film: "Devdas",
+      year: 1955,
+      composer: "S.D. Burman",
+      lyricist: "Sahir Ludhianvi",
+      language: "Hindi",
+      theme: "Selfless surrender",
+      note: "It reflects acceptance, sacrifice, and quiet devotion. Lata Mangeshkar delivers the song with controlled modulation and clarity, capturing the character’s restrained anguish. The composition by S. D. Burman features a measured tempo and subtle orchestration, supporting the contemplative mood. The lyrics by Sahir Ludhianvi present love as dignified endurance rather than possession. The song remains significant for its poetic depth, restrained intensity, and classical elegance.",
+      youtube: "https://www.youtube.com/watch?v=dMFbmp4oNpc&list=RDdMFbmp4oNpc&start_radio=1"
+    },
+    {
+      title: "Ab Aage Teri Marzi",
+      film: "Devdas",
+      year: 1955,
+      composer: "S.D. Burman",
+      lyricist: "Sahir Ludhianvi",
+      language: "Hindi",
+      theme: "Resigned acceptance",
+      note: "It conveys a sense of surrender and emotional restraint. Lata Mangeshkar presents the composition with measured clarity and subtle variation, highlighting the character’s quiet strength. The musical arrangement by S. D. Burman maintains a controlled tempo with minimal ornamentation, reinforcing the reflective mood. The lyrics by Sahir Ludhianvi emphasise dignity in suffering and the acceptance of destiny. The song is remembered for its lyrical refinement, restrained performance, and thematic seriousness.",
+      youtube: "https://www.youtube.com/watch?v=jPbNrIa-5h4&list=RDjPbNrIa-5h4&start_radio=1"
+    },
+    {
+      title: "O Aane Wale Ruk Ja",
+      film: "Devdas",
+      year: 1955,
+      composer: "S.D. Burman",
+      lyricist: "Sahir Ludhianvi",
+      language: "Hindi",
+      theme: "Hopeful longing",
+      note: "It expresses anticipation and emotional appeal. Lata Mangeshkar delivers the song with clarity and expressive control, capturing the character’s sense of expectation. The composition by S. D. Burman uses a slow and flowing melody that enhances the reflective atmosphere. The lyrics by Sahir Ludhianvi emphasise waiting, uncertainty, and emotional vulnerability. The song remains notable for its graceful structure, poetic language, and expressive vocal interpretation.",
+      youtube: "https://www.youtube.com/watch?v=W7VaPMGiQh4&list=RDW7VaPMGiQh4&start_radio=1"
+    },
+    {
+      title: "Jhanak Jhanak Payal Baaje",
+      film: "Jhanak Jhanak Payal Baaje",
+      year: 1955,
+      composer: "Vasant Desai",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Classical devotion",
+      note: "This song celebrates the elegance and discipline of classical Indian dance, particularly Kathak. The rhythmic sound of the ankle bells (payal) symbolises movement, precision, and artistic training. The lyrics reflect dedication, cultural pride, and the deep connection between music and physical expression. It conveys refinement, perseverance, and the structured beauty of tradition, while also highlighting the importance of practice, focus, and commitment in mastering an art form.",
+      youtube: "https://www.youtube.com/watch?v=W7VaPMGiQh4&list=RDW7VaPMGiQh4&start_radio=1"
+    },
+    {
       title: "Pyaasa (Jaane Woh Kaise Log The)",
       film: "Pyaasa",
       year: 1957,
