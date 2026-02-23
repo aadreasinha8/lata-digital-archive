@@ -1185,7 +1185,40 @@ const songs = {
         theme: "Unspoken Love",
         note: "A soulful song about feelings that remain unexpressed yet deeply felt.",
         youtube: "https://www.youtube.com/results?search_query=Dil+Jo+Na+Kah+Saka+Bheegi+Raat+1965"
-      }
+      },
+      {
+         title: "Aji Rooth Kar Ab Kahan Jaiyega",
+         film: "Arzoo",
+         year: 1965,
+         composer: "Shankar–Jaikishan",
+         lyricist: "Hasrat Jaipuri",
+         language: "Hindi",
+         theme: "Romantic Pleading",
+         note: "A playful yet emotional romantic song requesting the beloved not to stay upset.",
+         youtube: "https://www.youtube.com/results?search_query=Aji+Rooth+Kar+Ab+Kahan+Jaiyega+Arzoo+1965"
+       },
+       {
+         title: "Bedardi Balma Tujhko",
+         film: "Arzoo",
+         year: 1965,
+         composer: "Shankar–Jaikishan",
+         lyricist: "Hasrat Jaipuri",
+         language: "Hindi",
+         theme: "Heartbreak · Longing",
+         note: "A deeply emotional melody expressing pain caused by an indifferent lover.",
+         youtube: "https://www.youtube.com/results?search_query=Bedardi+Balma+Tujhko+Arzoo+1965"
+       },
+       {
+       title: "Dil Jo Na Kah Saka",
+         film: "Bheegi Raat",
+         year: 1965,
+         composer: "Roshan",
+         lyricist: "Majrooh Sultanpuri",
+         language: "Hindi",
+         theme: "Unspoken Love",
+         note: "A soulful song about feelings that remain unexpressed yet deeply felt.",
+         youtube: "https://www.youtube.com/results?search_query=Dil+Jo+Na+Kah+Saka+Bheegi+Raat+1965"
+       }
   ],
   "1970s": [
     {
