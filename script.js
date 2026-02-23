@@ -94,15 +94,15 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=nt7lXi_eiz8&list=RDnt7lXi_eiz8&start_radio=1" 
     },
     {
-      title: "Sanwariya O Basuriya O Bajaai Gayo Re",
-      film: "Subhadra",
+      title: "Paa Laguu Kar Joda Jodi Hori Shyam Mose Na",
+      film: "Shadi Se Pehle",
       year: 1946,
-      composer: "Vasant Desai",
+      composer: "Paigankar and Karnard",
       lyricist: "Unknown",
       language: "Hindi",
       theme: "Devotion",
-      note: "The song draws heavily from Krishna-bhakti imagery, where “Sanwariya” (the dark-complexioned beloved, often referring to Lord Krishna) and the “basuriya” (flute) evoke the iconic image of Krishna enchanting everyone with his music. The lyrics suggest a sense of divine attraction and emotional surrender, where the sound of the flute captivates the heart of the listener.",
-      youtube: "https://www.youtube.com/watch?v=nt7lXi_eiz8&list=RDnt7lXi_eiz8&start_radio=1"  
+      note: "The song is deeply rooted in traditional and devotional-romantic themes, drawing from the imagery of Radha–Krishna lore. The mention of “Shyam” points to Lord Krishna, while the context of “Hori” (Holi) brings in the festive, playful spirit associated with Krishna and Radha’s divine love. The lyrics reflect a mix of devotion, teasing affection, and emotional surrender.",
+      youtube: "https://www.youtube.com/watch?v=ai6CjZHO5hc&list=RDai6CjZHO5hc&start_radio=1"  
     },
     { 
       title: "Dil Mera Toda",
