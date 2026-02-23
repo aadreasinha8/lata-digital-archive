@@ -115,6 +115,28 @@ const songs = {
       note: "Lata Mangeshkar’s voice, still in its early phase, combines with C. Ramchandra’s to create a vibrant, engaging sound. The song stands out as an example of how 1940s Hindi cinema began experimenting with modern, urban musical styles while still maintaining Indian lyrical sensibilities.",
       youtube: "https://www.youtube.com/watch?v=oVU-LNCiHWc&list=RDoVU-LNCiHWc&start_radio=1"
     },  
+    {
+      title: "Aye Dil Meri Wafa Men",
+      film: "Anokha Pyar",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak · Emotional",
+      note: "The song revolves around themes of love, devotion, and emotional pain, where the singer addresses the heart (“aye dil”) and reflects on loyalty (“wafa”) in love. This song is also significant because Anokha Pyar (1948) featured music by Anil Biswas, who played a crucial role in shaping early Hindi film music and in giving Lata Mangeshkar opportunities to establish herself.",
+      youtube: "https://www.youtube.com/watch?v=yWj_zTXgKwk&list=RDyWj_zTXgKwk&start_radio=1"
+    },
+    {
+      title: "Ek Dil Ka Lagana",
+      film: "Anokha Pyar",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak · Romance",
+      note: "The song explores the emotional vulnerability of falling in love—“ek dil ka lagana” (giving one’s heart away) is portrayed as something both beautiful and risky. It reflects themes of romantic attachment, innocence, and the pain that can accompany love, suggesting that love is not just joy but also carries the possibility of heartbreak.",
+      youtube: "https://www.youtube.com/watch?v=YqZX26o95rg&list=RDYqZX26o95rg&start_radio=1" 
+    },
     { 
       title: "Dil Mera Toda",
       film: "Andaz",
