@@ -89,9 +89,20 @@ const songs = {
       composer: "Vasant Desai",
       lyricist: "Unknown",
       language: "Hindi",
-      theme: "Love · Romance",
-      note: "The song is rooted in the theme of longing and anticipation, where the female voice expresses hope for the return of her beloved (“piya”). The phrase “shudh na bisaar” suggests a plea not to be forgotten, adding emotional depth and a sense of gentle yearning. It reflects a common motif in Indian poetry and music—viraha (separation), where love is intensified through distance and waiting.",
-      youtube: "https://www.youtube.com/results?search_query=piya+aayega+gori+shudh+na+bisaar+lata+mangeshkar" 
+      theme: "Devotion",
+      note: "The song draws heavily from Krishna-bhakti imagery, where “Sanwariya” (the dark-complexioned beloved, often referring to Lord Krishna) and the “basuriya” (flute) evoke the iconic image of Krishna enchanting everyone with his music. The lyrics suggest a sense of divine attraction and emotional surrender, where the sound of the flute captivates the heart of the listener.",
+      youtube: "https://www.youtube.com/watch?v=nt7lXi_eiz8&list=RDnt7lXi_eiz8&start_radio=1" 
+    },
+    {
+      title: "Sanwariya O Basuriya O Bajaai Gayo Re",
+      film: "Subhadra",
+      year: 1946,
+      composer: "Vasant Desai",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Devotion",
+      note: "The song draws heavily from Krishna-bhakti imagery, where “Sanwariya” (the dark-complexioned beloved, often referring to Lord Krishna) and the “basuriya” (flute) evoke the iconic image of Krishna enchanting everyone with his music. The lyrics suggest a sense of divine attraction and emotional surrender, where the sound of the flute captivates the heart of the listener.",
+      youtube: "https://www.youtube.com/watch?v=nt7lXi_eiz8&list=RDnt7lXi_eiz8&start_radio=1"  
     },
     { 
       title: "Dil Mera Toda",
