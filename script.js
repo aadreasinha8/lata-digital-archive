@@ -169,6 +169,50 @@ const songs = {
       theme: "Heartbreak · Romance",
       note: "The song is centered on deep sorrow and heartbreak, with the line “jeevan sapna toot gaya” (the dream of life has shattered) expressing a sense of complete emotional collapse. It reflects themes of loss, disillusionment, and the fragility of happiness, where love or hope has been broken beyond repair.",
       youtube: "https://www.youtube.com/watch?v=lxumNBeCBWw&list=RDlxumNBeCBWw&start_radio=1" 
+    },
+    {
+      title: "Baras Baras Badli",
+      film: "Gajre",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Joy · Emotional",
+      note: "The song is built around the imagery of rain and clouds (“badli”), a classic motif in Indian poetry and music. It expresses longing and emotional yearning, where the falling rain often symbolizes tears, separation, or the intensity of unspoken feelings. The repetition of “baras baras” (rain again and again) adds to the sense of continuous emotion, whether it is love, sadness, or remembrance.",
+      youtube: "https://www.youtube.com/watch?v=WzhsexsZ9dI&list=RDWzhsexsZ9dI&start_radio=1"
+    },
+    {
+      title: "Chali Dulhan Baratiyon Ke",
+      film: "Gajre",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Celebration · Emotional",
+      note: "The song is centered around a wedding (bidaai) moment, where the bride (“dulhan”) departs with the wedding procession (“baratiyon”). It captures the bittersweet emotions of Indian marriages, joy of union mixed with the sorrow of separation from one’s family. The composition is strongly influenced by Indian folk traditions, especially those associated with wedding songs across North India.",
+      youtube: "https://www.youtube.com/watch?v=wft_1SUgryE&list=RDwft_1SUgryE&start_radio=1" 
+    },
+    {
+      title: "Ghar Yahan Basane Aaye The",
+      film: "Gajre",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak · Emotional",
+      note: "The song expresses a sense of disillusionment and sorrow, built around the idea that one came with hopes of building a home (“ghar basane”) but instead faced heartbreak or loss. It reflects themes of broken dreams, emotional struggle, and the fragility of expectations. Lata Mangeshkar’s singing adds a haunting softness, capturing the feeling of resignation and inner pain. Her ability to convey subtle emotional shifts is particularly evident here.",
+      youtube: "https://www.youtube.com/watch?v=PHXGOYGVd04&list=RDPHXGOYGVd04&start_radio=1" 
+    },
+    {
+      title: "Kab Tak Kategi Zindagi Kinare Kinare",
+      film: "Gajre",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Virah · Emotional",
+      note: "The song revolves around a philosophical sense of longing and incompleteness. The line “kinare kinare” (staying at the shore) metaphorically suggests living life on the sidelines—never fully immersing in its experiences. It expresses a quiet frustration and sadness about unfulfilled desires, hesitation, or emotional distance.",
+      youtube: "https://www.youtube.com/watch?v=8SPRzvY33fc&list=RD8SPRzvY33fc&start_radio=1"  
     },   
     { 
       title: "Dil Mera Toda",
