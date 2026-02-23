@@ -268,6 +268,28 @@ const songs = {
       theme: "Youth · Celebration",
       note: "The song is full of playfulness and youthful energy, using the image of a “laal dupatta” flying in the wind as a symbol of carefree joy and flirtation. It reflects a light-hearted romantic mood, where the heroine expresses her emotions in a teasing, spirited manner. It remains one of the most iconic and recognizable tracks from Barsaat.",
       youtube: "https://www.youtube.com/watch?v=OyDr1zTy7Ek&list=RDOyDr1zTy7Ek&start_radio=1"
+    },
+    {
+      title: "Jiya Beqarar Hai Chhayi Bahaar Hai",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song beautifully captures the feeling of restlessness in love (“beqarari”) combined with the arrival of spring (“bahaar”), symbolizing emotional blossoming. It reflects a state where the heart is overwhelmed with new feelings, excitement, anticipation, and longing all at once. Lyrically, the use of seasonal imagery enhances the romantic mood, suggesting that just as nature comes alive in spring, the heart too awakens with love. There is a sense of joy mixed with gentle बेचैनी (restlessness) that defines early romance.",
+      youtube: "https://www.youtube.com/watch?v=cJyvMRPQe-k&list=RDcJyvMRPQe-k&start_radio=1"
+    },
+    {
+      title: "Hans Mukh Phoolon Yeh Mat Bhoolo",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Joy · Emotion",
+      note: "The song uses the imagery of smiling flowers (“hans mukh phoolon”) to convey a deeper message about life and its fleeting nature. The line “yeh mat bhoolo” (don’t forget this) suggests a gentle reminder, often interpreted as a reflection on the impermanence of beauty, happiness, and youth. Lyrically, it blends nature imagery with philosophical undertones, a common feature in classic Hindi film songs. Beneath its pleasant surface lies a subtle awareness that joy is temporary, encouraging a sense of reflection.",
+      youtube: "https://www.youtube.com/watch?v=4SVySGNzqLA&list=RD4SVySGNzqLA&start_radio=1" 
     },   
     { 
       title: "Dil Mera Toda",
