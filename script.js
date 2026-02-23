@@ -370,7 +370,7 @@ const songs = {
       note: "The song is picturised on Raj Kapoor and Nargis, and it captures a playful and romantic moment between the two characters. In the song, the lovers tease each other gently, expressing affection through light-hearted dialogue and melody. The title roughly means “If you turn your face away for just a moment,” symbolising the emotional vulnerability and longing present in romantic relationships.",
       youtube: "https://www.youtube.com/watch?v=d1ZGmRZvgc0&list=RDd1ZGmRZvgc0&start_radio=1"
     },
-      {
+    {
       title: "Dam Bhar Jo Udhar Munh Phere",
       film: "Awaara",
       year: 1951,
@@ -954,8 +954,8 @@ const songs = {
       theme: "Separation · Yearning",
       note: "A melodious duet reflecting the pain of remembering a beloved during separation.",
       youtube: "https://www.youtube.com/results?search_query=Wo+Jab+Yaad+Aaye+Parasmani+1963"
-   },
-   {
+    },
+    {
       title: "Jo Vada Kiya Wo Nibhana Padega",
       film: "Taj Mahal",
       year: 1963,
@@ -965,8 +965,8 @@ const songs = {
       theme: "Promise · Eternal Love",
       note: "An iconic romantic duet about commitment and fulfilling promises in love.",
       youtube: "https://www.youtube.com/results?search_query=Jo+Vada+Kiya+Wo+Nibhana+Padega+Taj+Mahal+1963"
-   },
-   {
+    },
+    {
       title: "Dekho Rootha Na Karo",
       film: "Tere Ghar Ke Samne",
       year: 1963,
@@ -976,8 +976,8 @@ const songs = {
       theme: "Playful Romance",
       note: "A charming, light-hearted romantic song urging the beloved not to stay upset.",
       youtube: "https://www.youtube.com/results?search_query=Dekho+Rootha+Na+Karo+Tere+Ghar+Ke+Samne+1963"
-   },
-   {
+    },
+    {
       title: "Tere Ghar Ke Samne",
       film: "Tere Ghar Ke Samne",
       year: 1963,
@@ -987,8 +987,8 @@ const songs = {
       theme: "Romance · Admiration",
       note: "A lively romantic number celebrating youthful love and admiration.",
       youtube: "https://www.youtube.com/results?search_query=Tere+Ghar+Ke+Samne+1963+title+song"
-   },
-   {
+    },
+    {
       title: "Yeh Tanhai Hai Re Hai",
       film: "Tere Ghar Ke Samne",
       year: 1963,
@@ -998,8 +998,8 @@ const songs = {
       theme: "Loneliness · Longing",
       note: "A melodious song expressing the ache of loneliness in love.",
       youtube: "https://www.youtube.com/results?search_query=Yeh+Tanhai+Hai+Re+Hai+Tere+Ghar+Ke+Samne+1963"
-   },
-   {
+    },
+    {
       title: "Tere Pyar Mein Dildar",
       film: "Mere Mehboob",
       year: 1963,
@@ -1009,8 +1009,8 @@ const songs = {
       theme: "Devotion · Passion",
       note: "A passionate romantic number expressing deep surrender in love.",
       youtube: "https://www.youtube.com/results?search_query=Tere+Pyar+Mein+Dildar+Mere+Mehboob+1963"
-   },
-   {
+    },
+    {
       title: "Allah Bachaaye",
       film: "Mere Mehboob",
       year: 1963,
@@ -1020,8 +1020,8 @@ const songs = {
       theme: "Playful Romance",
       note: "A lively song filled with youthful energy and romantic teasing.",
       youtube: "https://www.youtube.com/results?search_query=Allah+Bachaaye+Mere+Mehboob+1963"
-   },
-   {
+    },
+    {
       title: "Mere Mehboob Tujhe",
       film: "Mere Mehboob",
       year: 1963,
@@ -1031,8 +1031,8 @@ const songs = {
       theme: "Admiration · Devotion",
       note: "A timeless romantic ghazal praising the beauty and grace of the beloved.",
       youtube: "https://www.youtube.com/results?search_query=Mere+Mehboob+Tujhe+Mere+Mehboob+1963"
-   },
-   {
+    },
+    {
       title: "Mere Mehboob Mein Kya Nahin",
       film: "Mere Mehboob",
       year: 1963,
@@ -1042,8 +1042,8 @@ const songs = {
       theme: "Praise · Romantic Awe",
       note: "A celebratory romantic number admiring every quality of the beloved.",
       youtube: "https://www.youtube.com/results?search_query=Mere+Mehboob+Mein+Kya+Nahin+1963"
-   },
-   {
+    },
+    {
       title: "Jaaneman Ek Nazar Dekh Le",
       film: "Mere Mehboob",
       year: 1963,
@@ -1053,8 +1053,8 @@ const songs = {
       theme: "Romantic Appeal",
       note: "A heartfelt plea for one glance from the beloved, filled with emotional longing.",
       youtube: "https://www.youtube.com/results?search_query=Jaaneman+Ek+Nazar+Dekh+Le+Mere+Mehboob+1963"
-   },
-   {
+    },
+    {
       title: "Yaad Mein Teri",
       film: "Mere Mehboob",
       year: 1963,
@@ -1064,8 +1064,8 @@ const songs = {
       theme: "Separation · Devotion",
       note: "A soulful song about remembering a beloved with deep emotional attachment.",
       youtube: "https://www.youtube.com/results?search_query=Yaad+Mein+Teri+Mere+Mehboob+1963"
-   },
-   {
+    },
+    {
       title: "Aaja Aayi Bahaar",
       film: "Rajkumar",
       year: 1964,
@@ -1075,8 +1075,8 @@ const songs = {
       theme: "Celebration · Romance",
       note: "A vibrant song celebrating the arrival of spring and blossoming love.",
       youtube: "https://www.youtube.com/results?search_query=Aaja+Aayi+Bahaar+Rajkumar+1964"
-   },
-   {
+    },
+    {
       title: "Naach Re Man",
       film: "Rajkumar",
       year: 1964,
@@ -1086,8 +1086,8 @@ const songs = {
       theme: "Joy · Festivity",
       note: "An energetic and rhythmic number celebrating joy and movement.",
       youtube: "https://www.youtube.com/results?search_query=Naach+Re+Man+Rajkumar+1964"
-   },
-   {
+    },
+    {
       title: "Har Dil Jo Pyaar Karega",
       film: "Sangam",
       year: 1964,
@@ -1097,8 +1097,8 @@ const songs = {
       theme: "Love · Universality",
       note: "A grand romantic anthem declaring that every heart will one day fall in love.",
       youtube: "https://www.youtube.com/results?search_query=Har+Dil+Jo+Pyaar+Karega+Sangam+1964"
-   },
-   {
+    },
+    {
       title: "O Mere Sanam",
       film: "Sangam",
       year: 1964,
@@ -1108,8 +1108,8 @@ const songs = {
       theme: "Romantic Confession",
       note: "A deeply emotional romantic song filled with longing and heartfelt confession.",
       youtube: "https://www.youtube.com/results?search_query=O+Mere+Sanam+Sangam+1964"
-   },
-   {
+    },
+    {
       title: "Lag Ja Gale Se Phir Ye Haseen Raat Ho Na Ho",
       film: "Woh Kaun Thi?",
       year: 1964,
@@ -1119,8 +1119,8 @@ const songs = {
       theme: "Ephemeral Love · Intensity",
       note: "An iconic haunting melody expressing the fear of fleeting moments in love.",
       youtube: "https://www.youtube.com/results?search_query=Lag+Ja+Gale+Woh+Kaun+Thi+1964"
-   },
-   {
+    },
+    {
       title: "Naina Barase Rimjhim Rimjhim",
       film: "Woh Kaun Thi?",
       year: 1964,
@@ -1130,8 +1130,8 @@ const songs = {
       theme: "Mystery · Longing",
       note: "A hauntingly beautiful song blending romance with suspense and melancholy.",
       youtube: "https://www.youtube.com/results?search_query=Naina+Barase+Rimjhim+Rimjhim+Woh+Kaun+Thi+1964"
-   },
-   {
+    },
+    {
       title: "Jo Hamne Daastaan Apnee Sunaaee",
       film: "Woh Kaun Thi?",
       year: 1964,
@@ -1141,8 +1141,8 @@ const songs = {
       theme: "Confession · Emotional Pain",
       note: "A reflective melody about revealing one's love story and hidden sorrow.",
       youtube: "https://www.youtube.com/results?search_query=Jo+Hamne+Daastaan+Apnee+Sunaaee+Woh+Kaun+Thi+1964"
-   },
-   {
+    },
+    {
       title: "Chhod Kar Tere Pyaar Kaa Daaman",
       film: "Woh Kaun Thi?",
       year: 1964,
@@ -1152,8 +1152,8 @@ const songs = {
       theme: "Separation · Heartbreak",
       note: "A deeply emotional song expressing the pain of letting go of a cherished love.",
       youtube: "https://www.youtube.com/results?search_query=Chhod+Kar+Tere+Pyaar+Kaa+Daaman+Woh+Kaun+Thi+1964"
-   },
-   {
+    },
+    {
       title: "Aji Rooth Kar Ab Kahan Jaiyega",
       film: "Arzoo",
       year: 1965,
@@ -1163,8 +1163,8 @@ const songs = {
       theme: "Romantic Pleading",
       note: "A playful yet emotional romantic song requesting the beloved not to stay upset.",
       youtube: "https://www.youtube.com/results?search_query=Aji+Rooth+Kar+Ab+Kahan+Jaiyega+Arzoo+1965"
-   },
-   {
+    },
+    {
       title: "Bedardi Balma Tujhko",
       film: "Arzoo",
       year: 1965,
@@ -1174,8 +1174,8 @@ const songs = {
       theme: "Heartbreak · Longing",
       note: "A deeply emotional melody expressing pain caused by an indifferent lover.",
       youtube: "https://www.youtube.com/results?search_query=Bedardi+Balma+Tujhko+Arzoo+1965"
-   },
-   {
+    },
+    {
       title: "Dil Jo Na Kah Saka",
       film: "Bheegi Raat",
       year: 1965,
@@ -1274,194 +1274,193 @@ const songs = {
       theme: "Folk · Memory",
       note: "An evocation of rural memory and the irretrievability of the past, drawn from Gulzar's adaptation of Satyajit Ray's Aranyer Din Ratri. R.D. Burman's use of folk idioms is both scholarly and deeply felt.",
       youtube: "https://www.youtube.com/results?search_query=Bhooli+Re+Parichay+1972+Lata"
-},
-{
-  title: "Dhak Dhak Kaise Chalti Hai Gaadi",
-  film: "Haathi Mere Saathi",
-  year: 1971,
-  composer: "Laxmikant-Pyarelal",
-  lyricist: "Anand Bakshi",
-  language: "Hindi",
-  theme: "Playful · Rhythm",
-  note: "A lively, childlike number built around mechanical rhythm and playful curiosity, reflecting the film’s lighthearted spirit and melodic accessibility.",
-  youtube: "https://www.youtube.com/results?search_query=Dhak+Dhak+Kaise+Chalti+Hai+Gaadi+Haathi+Mere+Saathi+1971+Lata"
-},
-{
-  title: "Sun Jaa Aa Thandi Hawa",
-  film: "Haathi Mere Saathi",
-  year: 1971,
-  composer: "Laxmikant-Pyarelal",
-  lyricist: "Anand Bakshi",
-  language: "Hindi",
-  theme: "Romance · Breeze",
-  note: "A soft romantic melody that rides on a gentle breeze motif, blending orchestral sweetness with Lata’s delicate tonal control.",
-  youtube: "https://www.youtube.com/results?search_query=Sun+Jaa+Aa+Thandi+Hawa+Haathi+Mere+Saathi+1971+Lata"
-},
-{
-  title: "Dilbar Jaani Chali Hawa Mastaani",
-  film: "Haathi Mere Saathi",
-  year: 1971,
-  composer: "Laxmikant-Pyarelal",
-  lyricist: "Anand Bakshi",
-  language: "Hindi",
-  theme: "Romance · Playful",
-  note: "An expressive romantic duet structured around teasing exchanges, supported by buoyant orchestration and a lilting melodic line.",
-  youtube: "https://www.youtube.com/results?search_query=Dilbar+Jaani+Chali+Hawa+Mastaani+Haathi+Mere+Saathi+1971+Lata"
-},
-{
-  title: "Jagi Raat Bhari Yaad Me Balam",
-  film: "Jwala",
-  year: 1971,
-  composer: "Shankar-Jaikishan",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Longing · Separation",
-  note: "A nocturnal lament shaped by restrained orchestration, evoking sleepless yearning through elongated melodic phrasing.",
-  youtube: "https://www.youtube.com/results?search_query=Jagi+Raat+Bhari+Yaad+Me+Balam+Jwala+1971+Lata"
-},
-{
-  title: "Aaha Le Gai O Jiya Le Gai",
-  film: "Jwala",
-  year: 1971,
-  composer: "Shankar-Jaikishan",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Romance · Delight",
-  note: "A spirited romantic expression marked by energetic tempo and expressive vocal inflections that heighten emotional immediacy.",
-  youtube: "https://www.youtube.com/results?search_query=Aaha+Le+Gai+O+Jiya+Le+Gai+Jwala+1971+Lata"
-},
-{
-  title: "Dekho Ji Aankho Me Dekho",
-  film: "Jwala",
-  year: 1971,
-  composer: "Shankar-Jaikishan",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Flirtation · Dialogue",
-  note: "Structured as a playful exchange, the composition balances conversational phrasing with classic orchestral flourishes.",
-  youtube: "https://www.youtube.com/results?search_query=Dekho+Ji+Aankho+Me+Dekho+Jwala+1971+Lata"
-},
-{
-  title: "Hole Hole Ek Bhi Na Ghungru Bole",
-  film: "Jwala",
-  year: 1971,
-  composer: "Shankar-Jaikishan",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Dance · Grace",
-  note: "A rhythm-driven piece that draws on classical dance imagery, articulated through measured tempo and lyrical subtlety.",
-  youtube: "https://www.youtube.com/results?search_query=Hole+Hole+Ek+Bhi+Na+Ghungru+Bole+Jwala+1971+Lata"
-},
-{
-  title: "Aaja Re Aaja Mere Sajana Aa",
-  film: "Jwala",
-  year: 1971,
-  composer: "Shankar-Jaikishan",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Invitation · Romance",
-  note: "An earnest romantic appeal shaped by expansive melodic arcs and emotive vocal sustain.",
-  youtube: "https://www.youtube.com/results?search_query=Aaja+Re+Aaja+Mere+Sajana+Aa+Jwala+1971+Lata"
-},
-{
-  title: "Mera Jwala Naam Jiya Jalana Kaam",
-  film: "Jwala",
-  year: 1971,
-  composer: "Shankar-Jaikishan",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Fiery · Assertion",
-  note: "A bold, character-driven song that uses dramatic phrasing and rhythmic emphasis to underline intensity.",
-  youtube: "https://www.youtube.com/results?search_query=Mera+Jwala+Naam+Jiya+Jalana+Kaam+Jwala+1971+Lata"
-},
-{
-  title: "Suno Suno Ek Baat Kahu",
-  film: "Memsaab",
-  year: 1971,
-  composer: "Sonik Om",
-  lyricist: "Verma Malik",
-  language: "Hindi",
-  theme: "Confession · Light",
-  note: "A conversational melody carried by gentle orchestration, structured around lyrical intimacy.",
-  youtube: "https://www.youtube.com/results?search_query=Suno+Suno+Ek+Baat+Kahu+Memsaab+1971+Lata"
-},
-{
-  title: "Mujhe Dhund Le Aa Kar Saiya",
-  film: "Memsaab",
-  year: 1971,
-  composer: "Sonik Om",
-  lyricist: "Verma Malik",
-  language: "Hindi",
-  theme: "Separation · Appeal",
-  note: "A plaintive appeal rendered with restrained instrumentation, emphasizing emotional vulnerability.",
-  youtube: "https://www.youtube.com/results?search_query=Mujhe+Dhund+Le+Aa+Kar+Saiya+Memsaab+1971+Lata"
-},
-{
-  title: "Jab Se Tere Mere Man Me",
-  film: "Memsaab",
-  year: 1971,
-  composer: "Sonik Om",
-  lyricist: "Verma Malik",
-  language: "Hindi",
-  theme: "Romance · Awakening",
-  note: "A reflective romantic piece that builds gradually, allowing melodic nuance to convey emotional transformation.",
-  youtube: "https://www.youtube.com/results?search_query=Jab+Se+Tere+Mere+Man+Me+Memsaab+1971+Lata"
-},
-{
-  title: "Megha Chhaye Aadhi Raat",
-  film: "Sharmeelee",
-  year: 1971,
-  composer: "S. D. Burman",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Longing · Monsoon",
-  note: "A haunting nocturne framed by monsoon imagery, distinguished by its delicate orchestration and introspective mood.",
-  youtube: "https://www.youtube.com/results?search_query=Megha+Chhaye+Aadhi+Raat+Sharmeelee+1971+Lata"
-},
-{
-  title: "Pariyon Ki Nagri Se Aaya",
-  film: "Shehzada",
-  year: 1972,
-  composer: "Rahul Dev Burman",
-  lyricist: "Rajendra Krishan",
-  language: "Hindi",
-  theme: "Fantasy · Romance",
-  note: "A whimsical composition that blends fairy-tale imagery with buoyant melodic phrasing.",
-  youtube: "https://www.youtube.com/results?search_query=Pariyon+Ki+Nagri+Se+Aaya+Shehzada+1972+Lata"
-},
-{
-  title: "Rimjhim Rimjhim Dekho Baras Rahee Hai",
-  film: "Shehzada",
-  year: 1972,
-  composer: "Rahul Dev Burman",
-  lyricist: "Rajendra Krishan",
-  language: "Hindi",
-  theme: "Rain · Joy",
-  note: "A celebratory rain song shaped by rhythmic vitality and bright orchestral textures.",
-  youtube: "https://www.youtube.com/results?search_query=Rimjhim+Rimjhim+Dekho+Baras+Rahee+Hai+Shehzada+1972+Lata"
-},
-{
-  title: "Naa Jaeeyo Naa Jaeeyo Chhod Ke Naa",
-  film: "Shehzada",
-  year: 1972,
-  composer: "Rahul Dev Burman",
-  lyricist: "Rajendra Krishan",
-  language: "Hindi",
-  theme: "Plea · Romance",
-  note: "A tender plea underscored by lyrical repetition, enhancing emotional urgency.",
-  youtube: "https://www.youtube.com/results?search_query=Naa+Jaeeyo+Naa+Jaeeyo+Chhod+Ke+Naa+Shehzada+1972+Lata"
-},
-{
-  title: "Apna Hari Hai Hazaar Hath Wala",
-  film: "Hari Darshan",
-  year: 1972,
-  composer: "Kalyanji-Anandji",
-  lyricist: "Unknown",
-  language: "Hindi",
-  theme: "Devotional · Faith",
-  note: "A reverential devotional song marked by structured chorus passages and spiritual fervor.",
-  youtube: "https://www.youtube.com/results?search_query=Apna+Hari+Hai+Hazaar+Hath+Wala+Hari+Darshan+1972+Lata"
-}
+   },
+   {
+      title: "Dhak Dhak Kaise Chalti Hai Gaadi",
+      film: "Haathi Mere Saathi",
+      year: 1971,
+      composer: "Laxmikant-Pyarelal",
+      lyricist: "Anand Bakshi",
+      language: "Hindi",
+      theme: "Playful · Rhythm",
+      note: "A lively, childlike number built around mechanical rhythm and playful curiosity, reflecting the film’s lighthearted spirit and melodic accessibility.",
+      youtube: "https://www.youtube.com/results?search_query=Dhak+Dhak+Kaise+Chalti+Hai+Gaadi+Haathi+Mere+Saathi+1971+Lata"
+   },
+   {
+     title: "Sun Jaa Aa Thandi Hawa",
+     film: "Haathi Mere Saathi",
+     year: 1971,
+     composer: "Laxmikant-Pyarelal",
+     lyricist: "Anand Bakshi",
+     language: "Hindi",
+     theme: "Romance · Breeze",
+     note: "A soft romantic melody that rides on a gentle breeze motif, blending orchestral sweetness with Lata’s delicate tonal control.",
+     youtube: "https://www.youtube.com/results?search_query=Sun+Jaa+Aa+Thandi+Hawa+Haathi+Mere+Saathi+1971+Lata"
+   },
+   {
+     title: "Dilbar Jaani Chali Hawa Mastaani",
+     film: "Haathi Mere Saathi",
+     year: 1971,
+     composer: "Laxmikant-Pyarelal",
+     lyricist: "Anand Bakshi",
+     language: "Hindi",
+     theme: "Romance · Playful",
+     note: "An expressive romantic duet structured around teasing exchanges, supported by buoyant orchestration and a lilting melodic line.",
+     youtube: "https://www.youtube.com/results?search_query=Dilbar+Jaani+Chali+Hawa+Mastaani+Haathi+Mere+Saathi+1971+Lata"
+   },
+   {
+     title: "Jagi Raat Bhari Yaad Me Balam",
+     film: "Jwala",
+     year: 1971,
+     composer: "Shankar-Jaikishan",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Longing · Separation",
+     note: "A nocturnal lament shaped by restrained orchestration, evoking sleepless yearning through elongated melodic phrasing.",
+     youtube: "https://www.youtube.com/results?search_query=Jagi+Raat+Bhari+Yaad+Me+Balam+Jwala+1971+Lata"
+   },
+   {
+     title: "Aaha Le Gai O Jiya Le Gai",
+     film: "Jwala",
+     year: 1971,
+     composer: "Shankar-Jaikishan",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Romance · Delight",
+     note: "A spirited romantic expression marked by energetic tempo and expressive vocal inflections that heighten emotional immediacy.",
+     youtube: "https://www.youtube.com/results?search_query=Aaha+Le+Gai+O+Jiya+Le+Gai+Jwala+1971+Lata"
+   },
+   {
+     title: "Dekho Ji Aankho Me Dekho",
+     film: "Jwala",
+     year: 1971,
+     composer: "Shankar-Jaikishan",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Flirtation · Dialogue",
+     note: "Structured as a playful exchange, the composition balances conversational phrasing with classic orchestral flourishes.",
+     youtube: "https://www.youtube.com/results?search_query=Dekho+Ji+Aankho+Me+Dekho+Jwala+1971+Lata"
+   },
+   {
+     title: "Hole Hole Ek Bhi Na Ghungru Bole",
+     film: "Jwala",
+     year: 1971,
+     composer: "Shankar-Jaikishan",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Dance · Grace",
+     note: "A rhythm-driven piece that draws on classical dance imagery, articulated through measured tempo and lyrical subtlety.",
+     youtube: "https://www.youtube.com/results?search_query=Hole+Hole+Ek+Bhi+Na+Ghungru+Bole+Jwala+1971+Lata"
+   },
+   {
+     title: "Aaja Re Aaja Mere Sajana Aa",
+     film: "Jwala",
+     year: 1971,
+     composer: "Shankar-Jaikishan",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Invitation · Romance",
+     note: "An earnest romantic appeal shaped by expansive melodic arcs and emotive vocal sustain.",
+     youtube: "https://www.youtube.com/results?search_query=Aaja+Re+Aaja+Mere+Sajana+Aa+Jwala+1971+Lata"
+   },
+   {
+     title: "Mera Jwala Naam Jiya Jalana Kaam",
+     film: "Jwala",
+     year: 1971,
+     composer: "Shankar-Jaikishan",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Fiery · Assertion",
+     note: "A bold, character-driven song that uses dramatic phrasing and rhythmic emphasis to underline intensity.",
+     youtube: "https://www.youtube.com/results?search_query=Mera+Jwala+Naam+Jiya+Jalana+Kaam+Jwala+1971+Lata"
+   },
+   {
+     title: "Suno Suno Ek Baat Kahu",
+     film: "Memsaab",
+     year: 1971,
+     composer: "Sonik Om",
+     lyricist: "Verma Malik",
+     language: "Hindi",
+     theme: "Confession · Light",
+     note: "A conversational melody carried by gentle orchestration, structured around lyrical intimacy.",
+     youtube: "https://www.youtube.com/results?search_query=Suno+Suno+Ek+Baat+Kahu+Memsaab+1971+Lata"
+   },
+   {
+     title: "Mujhe Dhund Le Aa Kar Saiya",
+     film: "Memsaab",
+     year: 1971,
+     composer: "Sonik Om",
+     lyricist: "Verma Malik",
+     language: "Hindi",
+     theme: "Separation · Appeal",
+     note: "A plaintive appeal rendered with restrained instrumentation, emphasizing emotional vulnerability.",
+     youtube: "https://www.youtube.com/results?search_query=Mujhe+Dhund+Le+Aa+Kar+Saiya+Memsaab+1971+Lata"
+   },
+   {
+     title: "Jab Se Tere Mere Man Me",
+     film: "Memsaab",
+     year: 1971,
+     composer: "Sonik Om",
+     lyricist: "Verma Malik",
+     language: "Hindi",
+     theme: "Romance · Awakening",
+     note: "A reflective romantic piece that builds gradually, allowing melodic nuance to convey emotional transformation.",
+     youtube: "https://www.youtube.com/results?search_query=Jab+Se+Tere+Mere+Man+Me+Memsaab+1971+Lata"
+   },
+   {
+     title: "Megha Chhaye Aadhi Raat",
+     film: "Sharmeelee",
+     year: 1971,
+     composer: "S. D. Burman",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Longing · Monsoon",
+     note: "A haunting nocturne framed by monsoon imagery, distinguished by its delicate orchestration and introspective mood.",
+     youtube: "https://www.youtube.com/results?search_query=Megha+Chhaye+Aadhi+Raat+Sharmeelee+1971+Lata"
+   },
+   {
+     title: "Pariyon Ki Nagri Se Aaya",
+     film: "Shehzada",
+     year: 1972,
+     composer: "Rahul Dev Burman",
+     lyricist: "Rajendra Krishan",
+     language: "Hindi",
+     theme: "Fantasy · Romance",
+     note: "A whimsical composition that blends fairy-tale imagery with buoyant melodic phrasing.",
+     youtube: "https://www.youtube.com/results?search_query=Pariyon+Ki+Nagri+Se+Aaya+Shehzada+1972+Lata"
+   },
+   {
+     title: "Rimjhim Rimjhim Dekho Baras Rahee Hai",
+     film: "Shehzada",
+     year: 1972,
+     composer: "Rahul Dev Burman",
+     lyricist: "Rajendra Krishan",
+     language: "Hindi",
+     theme: "Rain · Joy",
+     note: "A celebratory rain song shaped by rhythmic vitality and bright orchestral textures.",
+     youtube: "https://www.youtube.com/results?search_query=Rimjhim+Rimjhim+Dekho+Baras+Rahee+Hai+Shehzada+1972+Lata"
+   },
+   {
+     title: "Naa Jaeeyo Naa Jaeeyo Chhod Ke Naa",
+     film: "Shehzada",
+     year: 1972,
+     composer: "Rahul Dev Burman",
+     lyricist: "Rajendra Krishan",
+     language: "Hindi",
+     theme: "Plea · Romance",
+     note: "A tender plea underscored by lyrical repetition, enhancing emotional urgency.",
+     youtube: "https://www.youtube.com/results?search_query=Naa+Jaeeyo+Naa+Jaeeyo+Chhod+Ke+Naa+Shehzada+1972+Lata"
+   },
+   {
+     title: "Apna Hari Hai Hazaar Hath Wala",
+     film: "Hari Darshan",
+     year: 1972,
+     composer: "Kalyanji-Anandji",
+     lyricist: "Unknown",
+     language: "Hindi",
+     theme: "Devotional · Faith",
+     note: "A reverential devotional song marked by structured chorus passages and spiritual fervor.",
+     youtube: "https://www.youtube.com/results?search_query=Apna+Hari+Hai+Hazaar+Hath+Wala+Hari+Darshan+1972+Lata"
   ],
   "1980s": [
     {
