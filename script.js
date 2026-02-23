@@ -866,8 +866,8 @@ const songs = {
       theme: "Playful Romance · Longing",
       note: "A light yet expressive romantic number capturing the excitement and emotional pull of newfound love.",
       youtube: "https://www.youtube.com/results?search_query=Jiya+Le+Gayo+Ji+Mora+Anpadh+1962"
-     },
-     {
+    },
+    {
       title: "Tujhe Jeevan Ki Dor Se",
       film: "Asli-Naqli",
       year: 1962,
@@ -899,8 +899,8 @@ const songs = {
       theme: "Eternal Love · Devotion",
       note: "A deeply romantic song celebrating everlasting love, remembered for its melodious composition and emotional depth.",
       youtube: "https://www.youtube.com/results?search_query=Tera+Mera+Pyar+Amar+Asli+Naqli+1962"
-   },
-   {
+    },
+    {
       title: "Sawan Ki Raaton Mein Aisa",
       film: "Prem Patra",
       year: 1962,
@@ -910,8 +910,8 @@ const songs = {
       theme: "Romance · Longing",
       note: "A soft romantic melody expressing the emotional intensity of love during monsoon nights.",
       youtube: "https://www.youtube.com/results?search_query=Sawan+Ki+Raaton+Mein+Aisa+Prem+Patra+1962"
-   },
-   {
+    },
+    {
       title: "Yeh Mere Andhere Ujaale Na Hote",
       film: "Prem Patra",
       year: 1962,
@@ -921,8 +921,8 @@ const songs = {
       theme: "Love · Emotional Awakening",
       note: "A poetic expression of how love transforms darkness into light, carried by a tender composition.",
       youtube: "https://www.youtube.com/results?search_query=Yeh+Mere+Andhere+Ujaale+Na+Hote+Prem+Patra+1962"
-   },
-   {
+    },
+    {
       title: "Ab Aur Na Kucch Bhi Yaad Raha",
       film: "Prem Patra",
       year: 1962,
@@ -932,8 +932,8 @@ const songs = {
       theme: "Love · Emotional Immersion",
       note: "A romantic number where love consumes all other thoughts, highlighting emotional surrender.",
       youtube: "https://www.youtube.com/results?search_query=Ab+Aur+Na+Kucch+Bhi+Yaad+Raha+Prem+Patra+1962"
-   },
-   {
+    },
+    {
       title: "Do Ankhiyan Jhuki Jhuki Si",
       film: "Prem Patra",
       year: 1962,
@@ -943,8 +943,8 @@ const songs = {
       theme: "Shyness · Romance",
       note: "A gentle romantic song capturing the innocence and charm of shy glances in love.",
       youtube: "https://www.youtube.com/results?search_query=Do+Ankhiyan+Jhuki+Jhuki+Si+Prem+Patra+1962"
-   },
-   {
+    },
+    {
       title: "Wo Jab Yaad Aaye",
       film: "Parasmani",
       year: 1963,
@@ -1219,27 +1219,27 @@ const songs = {
       note: "A soulful song about feelings that remain unexpressed yet deeply felt.",
       youtube: "https://www.youtube.com/results?search_query=Dil+Jo+Na+Kah+Saka+Bheegi+Raat+1965"
     },
-      {
-         title: "Jagi Raat Bhari Yaad Me Balam",
-         film: "Kajal",
-         year: 1965,
-         composer: "Ravigybb0",
-         lyricist: "Sahir Ludhianvi",
-         language: "Hindi",
-         theme: "Longing · Separation",
-         note: "A deeply emotional song about sleepless nights in remembrance of a beloved.",
-         youtube: "https://www.youtube.com/results?search_query=Jagi+Raat+Bhari+Yaad+Me+Balam+Kajal+1965"
-       },
-       {
-         title: "Aaja Re Aaja Mere Sajana Aa",
-         film: "Anpadh",
-         year: 1962,
-         composer: "Madan Mohan",
-         lyricist: "Raja Mehdi Ali Khan",
-         language: "Hindi",
-         theme: "Romantic Yearning",
-         note: "A tender plea inviting the beloved with emotional intensity.",
-         youtube: "https://www.youtube.com/results?search_query=Aaja+Re+Aaja+Mere+Sajana+Anpadh+1962"
+    {
+       title: "Jagi Raat Bhari Yaad Me Balam",
+       film: "Kajal",
+       year: 1965,
+       composer: "Ravigybb0",
+       lyricist: "Sahir Ludhianvi",
+       language: "Hindi",
+       theme: "Longing · Separation",
+       note: "A deeply emotional song about sleepless nights in remembrance of a beloved.",
+       youtube: "https://www.youtube.com/results?search_query=Jagi+Raat+Bhari+Yaad+Me+Balam+Kajal+1965"
+    },
+    {
+      title: "Aaja Re Aaja Mere Sajana Aa",
+      film: "Anpadh",
+      year: 1962,
+      composer: "Madan Mohan",
+      lyricist: "Raja Mehdi Ali Khan",
+      language: "Hindi",
+      theme: "Romantic Yearning",
+      note: "A tender plea inviting the beloved with emotional intensity.",
+      youtube: "https://www.youtube.com/results?search_query=Aaja+Re+Aaja+Mere+Sajana+Anpadh+1962"
   ],
   "1970s": [
     {
