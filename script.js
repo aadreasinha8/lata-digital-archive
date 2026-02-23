@@ -37,7 +37,18 @@ const songs = {
       theme: "Devotion",
       note: "A desolate expression of romantic betrayal, sung with characteristic restraint. This early collaboration with Naushad established a partnership that would define Indian film music for two decades.",
       youtube: "https://www.youtube.com/results?search_query=mata+tere+charno+mein+lata+1945"
-    },    
+    },
+    {
+      title: "Chidiya Bole Choon Choon Maina Bole Hoon",
+      film: "Jeven Yatra",
+      year: 1946,
+      composer: "Vasant Desai",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "A light, playful Hindi song, known for its childlike innocence. Lata's soft and melodious voice enhances the sweetness and simplicity of the composition.",
+      youtube: "https://www.youtube.com/watch?v=8MVABHW6trY&list=RD8MVABHW6trY&start_radio=1"
+    },
     {
       title: "Dil Mera Toda",
       film: "Andaz",
