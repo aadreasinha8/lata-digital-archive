@@ -137,6 +137,39 @@ const songs = {
       note: "The song explores the emotional vulnerability of falling in love—“ek dil ka lagana” (giving one’s heart away) is portrayed as something both beautiful and risky. It reflects themes of romantic attachment, innocence, and the pain that can accompany love, suggesting that love is not just joy but also carries the possibility of heartbreak.",
       youtube: "https://www.youtube.com/watch?v=YqZX26o95rg&list=RDYqZX26o95rg&start_radio=1" 
     },
+    {
+      title: "Bhola Bhala Ri Mera",
+      film: "Anokha Pyar",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song carries a tone of innocent love and simplicity, with “bhola bhala” suggesting purity and naivety, often describing a beloved who is simple-hearted and sincere. The lyrics reflect a soft, affectionate emotion, focusing more on tenderness than intensity. Lata Mangeshkar’s voice here sounds increasingly refined and controlled, moving closer to the signature clarity and sweetness that would soon define her career.",
+      youtube: "https://www.youtube.com/watch?v=ollnhDinCWk&list=RDollnhDinCWk&start_radio=1"
+    },
+    {
+      title: "Ghadi Ghadi Poocho Na",
+      film: "Anokha Pyar",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song carries a tone of gentle romance mixed with playful hesitation. The phrase “ghadi ghadi poochho na” (don’t keep asking again and again) suggests a conversation between lovers, where one expresses mild shyness or teasing reluctance. It reflects the early stages of love, where emotions are present but not openly declared.",
+      youtube: "https://www.youtube.com/watch?v=aSQdzp04pac&list=RDaSQdzp04pac&start_radio=1"
+    },
+    {
+      title: "Jevan Sapna Toot Gaya",
+      film: "Anokha Pyar",
+      year: 1948,
+      composer: "Anil Biswas",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak · Romance",
+      note: "The song is centered on deep sorrow and heartbreak, with the line “jeevan sapna toot gaya” (the dream of life has shattered) expressing a sense of complete emotional collapse. It reflects themes of loss, disillusionment, and the fragility of happiness, where love or hope has been broken beyond repair.",
+      youtube: "https://www.youtube.com/watch?v=lxumNBeCBWw&list=RDlxumNBeCBWw&start_radio=1" 
+    },   
     { 
       title: "Dil Mera Toda",
       film: "Andaz",
