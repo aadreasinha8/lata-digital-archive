@@ -289,7 +289,29 @@ const songs = {
       language: "Hindi",
       theme: "Joy · Emotion",
       note: "The song uses the imagery of smiling flowers (“hans mukh phoolon”) to convey a deeper message about life and its fleeting nature. The line “yeh mat bhoolo” (don’t forget this) suggests a gentle reminder, often interpreted as a reflection on the impermanence of beauty, happiness, and youth. Lyrically, it blends nature imagery with philosophical undertones, a common feature in classic Hindi film songs. Beneath its pleasant surface lies a subtle awareness that joy is temporary, encouraging a sense of reflection.",
-      youtube: "https://www.youtube.com/watch?v=4SVySGNzqLA&list=RD4SVySGNzqLA&start_radio=1" 
+      youtube: "https://www.youtube.com/watch?v=4SVySGNzqLA&list=RD4SVySGNzqLA&start_radio=1"
+    },
+    {
+      title: "Patli Kamar Hai",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Joy · Playful",
+      note: "The song has a distinctly light-hearted, teasing, and flirtatious tone, celebrating youthful charm and physical grace, particularly highlighted through the phrase “patli kamar” (slender waist). It reflects a carefree romantic mood, where admiration is expressed in a fun, rhythmic manner. Lyrically, the song leans more towards playful admiration and social festivity rather than deep emotion. It fits well into scenes of celebration, dance, or cheerful interaction between characters.",
+      youtube: "https://www.youtube.com/watch?v=xVR0YV2n4yw&list=RDxVR0YV2n4yw&start_radio=1" 
+    },
+    {
+      title: "Chhod Gaye Balam",
+      film: "Barsaat",
+      year: 1949,
+      composer: "Shankar Jaikishan",
+      lyricist: "Unknown",
+      language: "Hindi",
+      theme: "Heartbreak · Virah",
+      note: "The song expresses deep heartbreak and abandonment, with the line “chhod gaye balam” (my beloved has left me) capturing a raw sense of loss. It reflects intense viraha (separation), grief, and emotional emptiness, where love has turned into sorrow. Lyrically, the song is simple yet deeply moving, focusing on the pain of being left behind. The emotions are direct and powerful, making the listener feel the depth of the character’s despair.",
+      youtube: "https://www.youtube.com/watch?v=k5GDiXMB__g&list=RDk5GDiXMB__g&start_radio=1" 
     },   
     { 
       title: "Dil Mera Toda",
