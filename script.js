@@ -1606,18 +1606,29 @@ const songs = {
       language: "Hindi",
       theme: "Acceptance · Grief",
       note: "One of the most philosophically complex songs in mainstream Hindi cinema, articulating an acceptance of life's injustices without bitterness. Lata's restraint here — no embellishment, no theatrical climax — is the performance of a consummate artist.",
-      youtube: "https://www.youtube.com/results?search_query=Tujhse+Naraz+Nahi+Zindagi+Masoom+1983+Lata"
+      youtube: "https://www.youtube.com/watch?v=b04C6hKGLXA&list=RDb04C6hKGLXA&start_radio=1"
     },
     {
-      title: "Yaara Seeli Seeli",
-      film: "Lekin",
-      year: 1990,
-      composer: "Hridaynath Mangeshkar",
-      lyricist: "Gulzar",
+      title: "Tu Kitne Baras Ki, Tu Kitne Baras Ka",
+      film: "Karz",
+      year: 1980,
+      composer: "Laxmikant-Pyarelal",
+      lyricist: "Anand Bakshi",
       language: "Hindi",
-      theme: "Ghost · Longing",
-      note: "Composed by her younger brother Hridaynath, this atmospheric song for a ghost-story film is one of Lata's most haunting recordings. The National Award recognised both the composition and performance.",
-      youtube: "https://www.youtube.com/results?search_query=Yaara+Seeli+Seeli+Lekin+Lata+Mangeshkar"
+      theme: "Love · Playful",
+      note: "This playful and teasing number from Karz is a light-hearted departure from the film’s otherwise intense reincarnation-driven narrative. Sung by Kishore Kumar and Lata Mangeshkar, with music by Laxmikant–Pyarelal, the song thrives on flirtation, curiosity, and youthful charm. Picturized on Rishi Kapoor and Tina Munim, it captures a lively exchange where age becomes an excuse for playful banter rather than a serious question. The chemistry between the leads adds a breezy, almost mischievous energy to the sequence.",
+      youtube: "https://www.youtube.com/watch?v=rKVBb4xJcmE&list=RDrKVBb4xJcmE&start_radio=1"
+    },
+    {
+      title: "Jane Kyun Mujhe",
+      film: "Agreement",
+      year: 1980,
+      composer: "Bappi Lahiri",
+      lyricist: "Gulshan Bawra",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song expresses a subtle emotional shift—the feeling of being drawn to someone without fully understanding why. Lata Mangeshkar’s delicate voice carries a sense of innocence and hesitation, perfectly mirroring the lyrics’ theme of unexplained affection. Musically, it leans toward a mellow, romantic arrangement with minimal orchestration, allowing the vocals and emotions to take center stage. The simplicity enhances its intimacy, making it feel personal and reflective.",
+      youtube: "https://www.youtube.com/watch?v=gCU229LCuRY&list=RDgCU229LCuRY&start_radio=1"
     },
     {
       title: "Mera Kuch Saaman",
@@ -1644,15 +1655,37 @@ const songs = {
       youtube: "https://www.youtube.com/results?search_query=Didi+Tera+Dewar+Deewana+Hum+Aapke+Hain+Koun+Lata"
     },
     {
-      title: "Mere Haath Mein",
-      film: "Fanaa",
-      year: 1997,
-      composer: "Jatin-Lalit",
-      lyricist: "Majrooh Sultanpuri",
+      title: "Gori Hain Kalaiyan",
+      film: "Aaj Ka Arjun",
+      year: 1990,
+      composer: "Bappi Lahiri",
+      lyricist: "	Anjaan",
       language: "Hindi",
       theme: "Romance · Tenderness",
-      note: "A tender duet from Lata's later period, demonstrating the continued purity and clarity of her voice into her late sixties — a remarkable feat of vocal preservation across a half-century of recording.",
-      youtube: "https://www.youtube.com/results?search_query=Lata+Mangeshkar+1990s+romantic+song"
+      note: "The song is known for its catchy rhythm and vibrant, rustic flavor, reflecting a celebratory village setting. Its lyrics revolve around admiration and flirtation, with a teasing tone that adds to its charm. Lata Mangeshkar’s graceful voice balances beautifully with the energetic delivery of Shabbir Kumar, creating a dynamic contrast. Visually associated with Amitabh Bachchan and Jaya Prada, the song enhances the film’s earthy, mass-appeal style.",
+      youtube: "https://www.youtube.com/watch?v=fBSYNez5d8o&list=RDfBSYNez5d8o&start_radio=1"
+    },
+    {
+      title: "Na Ja Re Na Ja Re",
+      film: "Aaj Ka Arjun",
+      year: 1990,
+      composer: "Bappi Lahiri",
+      lyricist: "	Anjaan",
+      language: "Hindi",
+      theme: "Virah · Emotional",
+      note: "the song features a smooth, ghazal-like quality with soft instrumentation that enhances its emotional richness. The melody flows gently, allowing both singers to express tenderness and yearning in a balanced duet. The lyrics revolve around promises of love and unwavering loyalty, with a tone that is both intimate and sincere. Lata Mangeshkar’s delicate voice pairs beautifully with Pankaj Udhas’s velvety style, creating a hauntingly romantic atmosphere.",
+      youtube: "https://www.youtube.com/watch?v=KkFq_Fnzylg&list=RDKkFq_Fnzylg&start_radio=1"
+    },
+    {
+      title: "Mahiya Teri Kasam",
+      film: "Ghayal",
+      year: 1990,
+      composer: "Bappi Lahiri",
+      lyricist: "	Anjaan",
+      language: "Hindi",
+      theme: "Romance · Tenderness",
+      note: "The track carries a deep sense of pleading and attachment, where the singer urges a loved one not to leave. Composed by Bappi Lahiri, the music is relatively restrained and melodic, allowing the emotional weight of the lyrics and vocals to take precedence. Unlike high-energy tracks, this song leans into a slower tempo, emphasizing tenderness and vulnerability. ",
+      youtube: "https://www.youtube.com/watch?v=RhSjfPHUE-Y&list=RDRhSjfPHUE-Y&start_radio=1"
     },
     {
       title: "O Paalanhaare",
