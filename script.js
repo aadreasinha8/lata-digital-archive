@@ -668,6 +668,17 @@ const songs = {
       youtube: "https://www.youtube.com/results?search_query=Jhanak+Jhanak+Tori+Baaje+Payaliya+Baiju+Bawra"
     },
     {
+      title: "Rasik Balma",
+      film: "Chori Chori",
+      year: 1956,
+      composer: "Shankar Jaikishan",
+      lyricist: "Hasrat Jaipuri",
+      language: "Hindi",
+      theme: "Romance · Virah",
+      note: "The song is a beautiful expression of romantic longing and admiration, where the beloved (“rasik balma”) is addressed with deep affection and emotional intensity. It reflects a mood of yearning, devotion, and gentle complaint, as the lover expresses both love and the pain of separation. Lyrically, the song carries a poetic elegance, blending shringaar rasa (romantic emotion) with a subtle sense of viraha (separation). The emotions are refined rather than dramatic, giving it a timeless charm.",
+      youtube: "https://www.youtube.com/watch?v=ZCI2Vzlp2r4&list=RDZCI2Vzlp2r4&start_radio=1"
+    },
+    {
       title: "Aye Mere Watan Ke Logo",
       film: "Live Performance",
       year: 1963,
@@ -689,7 +700,7 @@ const songs = {
       language: "Hindi",
       theme: "Viraha · Mystery",
       note: "Widely regarded as one of the most perfectly realised songs in Hindi cinema, this collaboration between Lata and Madan Mohan distils viraha into its purest musical form. The opening phrase alone is among the most recognised in Indian music.",
-      youtube: "https://www.youtube.com/results?search_query=Lag+Ja+Gale+Woh+Kaun+Thi+1964"
+      youtube: "https://www.youtube.com/watch?v=TFr6G5zveS8&list=RDTFr6G5zveS8&start_radio=1"
     },
     {
       title: "Pyaar Kiya To Darna Kya",
@@ -700,7 +711,95 @@ const songs = {
       language: "Hindi",
       theme: "Defiance · Romance",
       note: "Sung in the mirror-encrusted Sheesh Mahal set, this is one of cinema's supreme declarations of love as resistance. Lata's projection — full, commanding, triumphant — was a deliberate choice to match the grandeur of Naushad's orchestration.",
-      youtube: "https://www.youtube.com/results?search_query=Pyaar+Kiya+To+Darna+Kya+Mughal+e+Azam+1960"
+      youtube: "https://www.youtube.com/watch?v=-Pr9NZJ3zlo&list=RD-Pr9NZJ3zlo&start_radio=1"
+    },
+    {
+      title: "Mohe Panghat Pe",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Devotion · Romance",
+      note: "The song is based on Krishna–Radha lore, where Radha playfully complains that Krishna (“Nandlal”) teased her at the panghat (riverbank). It captures a mood of playful romance, devotion, and light teasing, rooted in traditional Indian storytelling. Lyrically, it draws from bhakti and shringaar traditions, blending devotion with romantic expression. The imagery of the panghat and Krishna’s mischief is a classic motif in Indian poetry and dance. Musically, composed by Naushad, the song is deeply rooted in Indian classical music, with strong influences of Kathak dance traditions. Its intricate rhythm and melodic structure make it ideal for classical performance.",
+      youtube: "https://www.youtube.com/watch?v=WfbGXBtE2MQ&list=RDWfbGXBtE2MQ&start_radio=1"
+    },
+    {
+      title: "Mohabbat Ki Jhooti",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Virah · Heartbreak",
+      note: "The song expresses deep heartbreak, betrayal, and disillusionment in love. The phrase “mohabbat ki jhooti kahani” suggests that love itself feels false or deceptive, and the singer mourns the emotional pain caused by it. It reflects a state of emotional devastation and shattered trust. Lyrically, the song is intense and dramatic, conveying a sense of resignation and sorrow, where the lover feels deceived by the promises of love. It moves beyond simple sadness into a more tragic and reflective emotional space.",
+      youtube: "https://www.youtube.com/watch?v=Z2ANcAqe5N0&list=RDZ2ANcAqe5N0&start_radio=1"
+    },
+    {
+      title: "Humen Kash Tumse Mohabbat",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Romance · Heartbreak",
+      note: "The song expresses regret and sorrow in love, built around the idea that it might have been better never to have fallen in love at all. The line “kaash tumse mohabbat na hoti” reflects a painful realization where love has brought more suffering than happiness. Lyrically, it carries a tone of resignation, heartbreak, and emotional conflict—the lover still feels deeply, yet wishes to escape the pain that love has caused. It highlights the paradox of love being both beautiful and destructive. Lata Mangeshkar’s voice is hauntingly soft yet powerful, conveying pain with restraint and grace. Picturized on Madhubala as Anarkali, the song gains deeper meaning within the context of her tragic, forbidden love.",
+      youtube: "https://www.youtube.com/watch?v=XuRKwV67mzk&list=RDXuRKwV67mzk&start_radio=1"
+    },
+    {
+      title: "Bekas Pe Karam Keejeye",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Pain · Devotion",
+      note: "The song is essentially a plea for mercy and compassion, where the singer (Anarkali) prays for kindness upon the helpless (“bekas”). It reflects a mood of surrender, humility, and spiritual devotion, blending personal pain with a higher appeal for justice and grace. Lyrically, it draws from Sufi and devotional traditions, expressing faith in divine mercy during moments of suffering. The emotions are intense yet dignified, conveying both vulnerability and inner strength. Lata Mangeshkar’s rendition is profound and soul-stirring, capturing both the pain of a helpless lover and the devotion of a seeker.",
+      youtube: "https://www.youtube.com/watch?v=ktj5e0UrFb4&list=RDktj5e0UrFb4&start_radio=1"
+    },
+    {
+      title: "Teri Mehfil Mein",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Pain · Romance",
+      note: "The song is set in a royal mehfil and represents a musical duel of emotions and ego, where two voices express contrasting perspectives on love, fate, and pride. It reflects themes of love versus power, passion versus control, making it rich in dramatic tension. Lyrically, the song is poetic and layered, filled with taunts, assertions, and emotional challenges. It conveys both romantic intensity and rivalry, as the singers attempt to outdo each other in expression and wit. Lata Mangeshkar’s voice brings grace and emotional depth, while Shamshad Begum adds boldness and strength, creating a compelling contrast.",
+      youtube: "https://www.youtube.com/watch?v=7haD1FacVYU&list=RD7haD1FacVYU&start_radio=1"
+    },
+    {
+      title: "Ye Dil Ki Lagi",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Love · Romance",
+      note: "The song explores the mystery and intensity of love, questioning what this “dil ki lagi” (the heart’s attachment) truly is. It reflects a state of emotional curiosity, tenderness, and growing realization, where the singer is trying to understand the depth of her feelings. Lyrically, it carries a tone of gentle introspection, blending innocence with emotional awakening. The song doesn’t express extreme joy or sorrow but stays in a delicate space of wonder and contemplation about love.",
+      youtube: "https://www.youtube.com/watch?v=ggxgOB3SdzQ&list=RDggxgOB3SdzQ&start_radio=1"
+    },
+    {
+      title: "Ae Ishq Yeh Sab Duniyawale",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Love · Rebellion",
+      note: "The song reflects on the nature of love and society’s judgment, where the singer addresses “ishq” (love) as something misunderstood by the world. It highlights how people often criticize, fear, or fail to understand true love, especially when it challenges social norms. Lyrically, it carries a strong philosophical and almost rebellious tone, defending love as something pure and powerful despite societal opposition. It blends personal pain with a broader commentary on human attitudes toward love.",
+      youtube: "https://www.youtube.com/watch?v=cJzwapdk2Cs&list=RDcJzwapdk2Cs&start_radio=1"
+    },
+    {
+      title: "Khuda Nigehbaan",
+      film: "Mughal-e-Azam",
+      year: 1960,
+      composer: "Naushad",
+      lyricist: "Shakeel Badayuni",
+      language: "Hindi",
+      theme: "Love · Virah",
+      note: "The song expresses a graceful goodbye filled with love and sacrifice. The phrase “khuda nigehbaan ho tumhara” (may God protect you) reflects a selfless wish for the beloved’s well-being, even in separation. It captures the essence of letting go with dignity and care. Lyrically, the tone is gentle and heartfelt, blending pain, acceptance, and devotion. Rather than protest or despair, the song conveys a quiet strength—choosing the beloved’s happiness over one’s own. Lata Mangeshkar’s voice is tender and controlled, perfectly capturing the restrained emotion of a dignified farewell.",
+      youtube: "https://www.youtube.com/watch?v=zorL6dHCfpo&list=RDzorL6dHCfpo&start_radio=1"
     },
     {
       title: "Allah Tero Naam",
@@ -711,7 +810,7 @@ const songs = {
       language: "Hindi",
       theme: "Devotion · Universalism",
       note: "A prayer that transcends religious boundaries, affirming the unity underlying diverse names for the divine. Jaidev's spare composition and Lata's meditative delivery make this one of Hindi cinema's most spiritually resonant songs.",
-      youtube: "https://www.youtube.com/results?search_query=Allah+Tero+Naam+Hum+Dono+1961+Lata"
+      youtube: "https://www.youtube.com/watch?v=f-ERhzkxgEs&list=RDf-ERhzkxgEs&start_radio=1"
     },
     {
       title: "Tere Bin Soone Nain Hamare",
@@ -721,11 +820,11 @@ const songs = {
       lyricist: "Sahir Ludhianvi",
       language: "Hindi",
       theme: "Longing · Separation",
-      note: "From one of the defining melodramas of Hindi cinema's middle period, this song captures the poignancy of domestic separation with an intimacy rare in the grander productions of the era.",
+      note: "The song expresses intense longing and emotional emptiness in love. The line “tere bin soone nain hamare” (without you, my eyes feel empty) beautifully conveys the idea that life loses its meaning and brightness in the absence of the beloved. It reflects themes of separation, yearning, and deep emotional attachment. Lyrically, the imagery is simple yet powerful, eyes symbolize perception and feeling, and their emptiness suggests a profound inner void. The song captures a quiet, aching sadness rather than dramatic grief. ",
       youtube: "https://www.youtube.com/results?search_query=Tere+Bin+Soone+Nain+Hamare+Waqt+1965"
     },
     {
-       title: "Mele Hain Chiragon Ki Diwali",
+      title: "Mele Hain Chiragon Ki Diwali",
       film: "Nazrana",
       year: 1961,
       composer: "Ravi",
@@ -740,7 +839,7 @@ const songs = {
       film: "Nazrana",
       year: 1961,
       composer: "Ravi",
-      lyricist: "SRajendra Krishan",
+      lyricist: "Rajendra Krishan",
       language: "Hindi",
       theme: "Poetic · Love",
       note: "The song uses poetic imagery—like flowing hair in a garden—to express beauty, love, and admiration. Its soft melody and Lata Mangeshkar’s expressive voice give it a dreamy, graceful feel.",
@@ -755,7 +854,7 @@ const songs = {
       language: "Hindi",
       theme: "Longing · Playfulness",
       note: "Is a lively romantic duet from the film Ganga Jamuna, sung by Lata Mangeshkar and Mohammed Rafi. It features a playful hide-and-seek style exchange between lovers, with a folk-inspired melody and energetic rhythm that makes it cheerful and memorable.",
-      youtube: "https://www.youtube.com/results?search_query=Dhoondo+Dhoondo+Re+Saajna"
+      youtube: "https://www.youtube.com/watch?v=SOWxBr7zTz0&list=RDSOWxBr7zTz0&start_radio=1"
     },
     {
       title: "Dagabaaz Tori Batiyan Na Maanun Re",
@@ -776,7 +875,7 @@ const songs = {
       lyricist: "Shakeel Badayuni",
       language: "Hindi",
       theme: "Seperation · Heartbreak",
-      note: "The song uses the metaphor of two swans separated to express deep sorrow and the pain of lovers being parted. Its emotional melody enhances the feeling of heartbreak and separation..",
+      note: "The song uses the metaphor of two swans separated to express deep sorrow and the pain of lovers being parted. Its emotional melody enhances the feeling of heartbreak and separation.",
       youtube: "https://www.youtube.com/results?search_query=Do+Hanson+Ka+Joda+Bichhad+Gayo+Re"  
     },
     {
@@ -821,7 +920,7 @@ const songs = {
       language: "Hindi",
       theme: "Love · Appreciation",
       note: "A soulful romantic song expressing gratitude and emotional surrender in love. Lata Mangeshkar’s tender voice and Madan Mohan’s delicate composition give it timeless elegance.",
-      youtube: "https://www.youtube.com/results?search_query=Aap+Ki+Nazron+Ne+Samjha+Anpadh+1962"
+      youtube: "https://www.youtube.com/watch?v=Wv-VlQMD0VY&list=RDWv-VlQMD0VY&start_radio=1"
     },
     {
       title: "Hai Isi Mein Pyar Ki Aabroo",
