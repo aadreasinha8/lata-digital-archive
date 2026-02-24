@@ -1652,7 +1652,7 @@ const songs = {
       language: "Hindi",
       theme: "Celebration · Family",
       note: "A playful, exuberant song of domestic festivity that became one of the decade's defining popular recordings. The film's enormous commercial success made this among the most-heard songs of the 1990s.",
-      youtube: "https://www.youtube.com/results?search_query=Didi+Tera+Dewar+Deewana+Hum+Aapke+Hain+Koun+Lata"
+      youtube: "https://www.youtube.com/watch?v=tEKi6vnPApI&list=RDtEKi6vnPApI&start_radio=1"
     },
     {
       title: "Gori Hain Kalaiyan",
