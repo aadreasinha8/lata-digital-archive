@@ -802,6 +802,17 @@ const songs = {
       youtube: "https://www.youtube.com/watch?v=zorL6dHCfpo&list=RDzorL6dHCfpo&start_radio=1"
     },
     {
+      title: "Ajeeb Dastaan Hai Yeh",
+      film: "Dil Apna Aur Preet Parai",
+      year: 1960,
+      composer: "Shankar-Jaikishan",
+      lyricist: "Shakeel Badayuni",
+      language: "Shailendra",
+      theme: "Love · Virah",
+      note: "The song reflects the complexity and unpredictability of love, where relationships do not follow a simple or happy path. The phrase “ajeeb dastaan hai yeh” (what a strange story this is) captures the essence of emotional confusion, irony, and unfulfilled love. Lyrically, it conveys a sense of bittersweet realization, love exists, but circumstances prevent it from reaching fulfillment. There is a quiet acceptance of fate, mixed with lingering pain and longing. Lata Mangeshkar’s voice is expressive and nuanced, capturing both the sadness and the subtle beauty of the situation. Picturized on Meena Kumari, the song gains additional emotional weight through her restrained and poignant performance.",
+      youtube: "https://www.youtube.com/watch?v=niSarMZ2t7g&list=RDniSarMZ2t7g&start_radio=1"
+    },
+    {
       title: "Allah Tero Naam",
       film: "Hum Dono",
       year: 1961,
@@ -1497,6 +1508,17 @@ const songs = {
       youtube: "https://www.youtube.com/results?search_query=Mujhe+Dhund+Le+Aa+Kar+Saiya+Memsaab+1971+Lata"
     },
     {
+      title: "Chalte Chalte",
+      film: "Pakeezah",
+      year: 1972,
+      composer: "Ghulam Mohammed",
+      lyricist: "Kaifi Azmi",
+      language: "Hindi",
+      theme: "Love · Longing",
+      note: "The song captures a fleeting moment of love and longing—where the protagonist, played by Meena Kumari, expresses a bittersweet awareness that her journey with love may be temporary. The lyrics are simple yet deeply poetic, reflecting themes of separation, destiny, and emotional vulnerability. ",
+      youtube: "https://www.youtube.com/watch?v=vcEEQ-i7Lcs&list=RDvcEEQ-i7Lcs&start_radio=1"
+    },
+    {
       title: "Jab Se Tere Mere Man Me",
       film: "Memsaab",
       year: 1971,
@@ -1561,7 +1583,18 @@ const songs = {
       theme: "Devotional · Faith",
       note: "A reverential devotional song marked by structured chorus passages and spiritual fervor.",
       youtube: "https://www.youtube.com/results?search_query=Apna+Hari+Hai+Hazaar+Hath+Wala+Hari+Darshan+1972+Lata"
-    }    
+    },
+    {
+      title: "Aajkal Paon Zamin Par Nahin Padte",
+      film: "Ghar",
+      year: 1978,
+      composer: "Rajesh Roshan",
+      lyricist: "Majrooh Sultanpuri",
+      language: "Hindi",
+      theme: "Love · Celebration",
+      note: "The song beautifully captures the feeling of being deeply in love—the kind that makes everything feel lighter, brighter, and dreamlike. Picturized on Rekha, it reflects a rare moment of emotional ease and happiness before the film’s darker turn, making it even more poignant in retrospect.",
+      youtube: "https://www.youtube.com/watch?v=97KvjAH8fYU&list=RD97KvjAH8fYU&start_radio=1"
+    }
   ],
   "1980s": [
     {
